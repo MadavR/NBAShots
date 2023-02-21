@@ -1,0 +1,1231 @@
+﻿"""Away Team ID"",""Away Team Abbr"",""Away Team City"",""Away Team Name"",""Home Team ID"",""Home Team Abbr"",""Home Team City"",""Home Team Name"",""Location"""
+"83,""NYK"",""New York"",""Knicks"",86,""CLE"",""Cleveland"",""Cavaliers"",""Quicken Loans Arena"""
+"98,""UTA"",""Utah"",""Jazz"",97,""POR"",""Portland"",""Trail Blazers"",""Moda Center"""
+"106,""SAS"",""San Antonio"",""Spurs"",101,""GSW"",""Golden State"",""Warriors"",""Oracle Arena"""
+92,MIA,Miami,Heat,95,ORL,Orlando,Magic,Amway Center
+108,DAL,Dallas,Mavericks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+84,BRO,Brooklyn,Nets,82,BOS,Boston,Celtics,TD Garden
+88,DET,Detroit,Pistons,81,TOR,Toronto,Raptors,Air Canada Centre
+93,CHA,Charlotte,Hornets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+100,MIN,Minnesota,Timberwolves,107,MEM,Memphis,Grizzlies,FedEx Forum
+99,DEN,Denver,Nuggets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+96,OKL,Oklahoma City,Thunder,85,PHI,Philadelphia,76ers,Wells Fargo Center
+103,SAC,Sacramento,Kings,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+109,HOU,Houston,Rockets,105,LAL,Los Angeles,Lakers,Staples Center
+94,WAS,Washington,Wizards,91,ATL,Atlanta,Hawks,Philips Arena
+82,BOS,Boston,Celtics,89,CHI,Chicago,Bulls,United Center
+106,SAS,San Antonio,Spurs,103,SAC,Sacramento,Kings,Sleep Train Arena
+102,LAC,Los Angeles,Clippers,97,POR,Portland,Trail Blazers,Moda Center
+86,CLE,Cleveland,Cavaliers,81,TOR,Toronto,Raptors,Air Canada Centre
+87,IND,Indiana,Pacers,84,BRO,Brooklyn,Nets,Barclays Center
+95,ORL,Orlando,Magic,88,DET,Detroit,Pistons,Palace of Auburn Hills
+104,PHX,Phoenix,Suns,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+93,CHA,Charlotte,Hornets,92,MIA,Miami,Heat,American Airlines Arena
+109,HOU,Houston,Rockets,108,DAL,Dallas,Mavericks,American Airlines Center
+105,LAL,Los Angeles,Lakers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+101,GSW,Golden State,Warriors,110,NOP,New Orleans,Pelicans,Smoothie King Center
+91,ATL,Atlanta,Hawks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+82,BOS,Boston,Celtics,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+107,MEM,Memphis,Grizzlies,83,NYK,New York,Knicks,Madison Square Garden
+95,ORL,Orlando,Magic,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+87,IND,Indiana,Pacers,89,CHI,Chicago,Bulls,United Center
+84,BRO,Brooklyn,Nets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+110,NOP,New Orleans,Pelicans,106,SAS,San Antonio,Spurs,AT&T Center
+97,POR,Portland,Trail Blazers,99,DEN,Denver,Nuggets,Pepsi Center
+100,MIN,Minnesota,Timberwolves,103,SAC,Sacramento,Kings,Sleep Train Arena
+98,UTA,Utah,Jazz,102,LAC,Los Angeles,Clippers,Staples Center
+101,GSW,Golden State,Warriors,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+106,SAS,San Antonio,Spurs,92,MIA,Miami,Heat,American Airlines Arena
+90,MIL,Milwaukee,Bucks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+105,LAL,Los Angeles,Lakers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+94,WAS,Washington,Wizards,107,MEM,Memphis,Grizzlies,FedEx Forum
+108,DAL,Dallas,Mavericks,109,HOU,Houston,Rockets,Toyota Center
+99,DEN,Denver,Nuggets,81,TOR,Toronto,Raptors,Air Canada Centre
+89,CHI,Chicago,Bulls,84,BRO,Brooklyn,Nets,Barclays Center
+103,SAC,Sacramento,Kings,91,ATL,Atlanta,Hawks,Philips Arena
+104,PHX,Phoenix,Suns,102,LAC,Los Angeles,Clippers,Staples Center
+109,HOU,Houston,Rockets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+95,ORL,Orlando,Magic,85,PHI,Philadelphia,76ers,Wells Fargo Center
+105,LAL,Los Angeles,Lakers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+103,SAC,Sacramento,Kings,92,MIA,Miami,Heat,American Airlines Arena
+83,NYK,New York,Knicks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+90,MIL,Milwaukee,Bucks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+107,MEM,Memphis,Grizzlies,100,MIN,Minnesota,Timberwolves,Target Center
+98,UTA,Utah,Jazz,106,SAS,San Antonio,Spurs,AT&T Center
+101,GSW,Golden State,Warriors,97,POR,Portland,Trail Blazers,Moda Center
+81,TOR,Toronto,Raptors,94,WAS,Washington,Wizards,Verizon Center
+85,PHI,Philadelphia,76ers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+88,DET,Detroit,Pistons,84,BRO,Brooklyn,Nets,Barclays Center
+109,HOU,Houston,Rockets,83,NYK,New York,Knicks,Madison Square Garden
+105,LAL,Los Angeles,Lakers,91,ATL,Atlanta,Hawks,Philips Arena
+110,NOP,New Orleans,Pelicans,107,MEM,Memphis,Grizzlies,FedEx Forum
+89,CHI,Chicago,Bulls,82,BOS,Boston,Celtics,TD Garden
+108,DAL,Dallas,Mavericks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+97,POR,Portland,Trail Blazers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+96,OKL,Oklahoma City,Thunder,102,LAC,Los Angeles,Clippers,Staples Center
+103,SAC,Sacramento,Kings,95,ORL,Orlando,Magic,Amway Center
+87,IND,Indiana,Pacers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+99,DEN,Denver,Nuggets,100,MIN,Minnesota,Timberwolves,Target Center
+82,BOS,Boston,Celtics,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+96,OKL,Oklahoma City,Thunder,101,GSW,Golden State,Warriors,Oracle Arena
+91,ATL,Atlanta,Hawks,94,WAS,Washington,Wizards,Verizon Center
+92,MIA,Miami,Heat,81,TOR,Toronto,Raptors,Air Canada Centre
+93,CHA,Charlotte,Hornets,84,BRO,Brooklyn,Nets,Barclays Center
+83,NYK,New York,Knicks,89,CHI,Chicago,Bulls,United Center
+102,LAC,Los Angeles,Clippers,107,MEM,Memphis,Grizzlies,FedEx Forum
+104,PHX,Phoenix,Suns,110,NOP,New Orleans,Pelicans,Smoothie King Center
+97,POR,Portland,Trail Blazers,108,DAL,Dallas,Mavericks,American Airlines Center
+106,SAS,San Antonio,Spurs,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+101,GSW,Golden State,Warriors,105,LAL,Los Angeles,Lakers,Staples Center
+100,MIN,Minnesota,Timberwolves,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+86,CLE,Cleveland,Cavaliers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+94,WAS,Washington,Wizards,95,ORL,Orlando,Magic,Amway Center
+99,DEN,Denver,Nuggets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+89,CHI,Chicago,Bulls,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+109,HOU,Houston,Rockets,91,ATL,Atlanta,Hawks,Philips Arena
+103,SAC,Sacramento,Kings,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+102,LAC,Los Angeles,Clippers,106,SAS,San Antonio,Spurs,AT&T Center
+98,UTA,Utah,Jazz,83,NYK,New York,Knicks,Madison Square Garden
+97,POR,Portland,Trail Blazers,107,MEM,Memphis,Grizzlies,FedEx Forum
+103,SAC,Sacramento,Kings,81,TOR,Toronto,Raptors,Air Canada Centre
+90,MIL,Milwaukee,Bucks,108,DAL,Dallas,Mavericks,American Airlines Center
+99,DEN,Denver,Nuggets,82,BOS,Boston,Celtics,TD Garden
+104,PHX,Phoenix,Suns,105,LAL,Los Angeles,Lakers,Staples Center
+98,UTA,Utah,Jazz,85,PHI,Philadelphia,76ers,Wells Fargo Center
+109,HOU,Houston,Rockets,94,WAS,Washington,Wizards,Verizon Center
+87,IND,Indiana,Pacers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+95,ORL,Orlando,Magic,89,CHI,Chicago,Bulls,United Center
+92,MIA,Miami,Heat,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+88,DET,Detroit,Pistons,102,LAC,Los Angeles,Clippers,Staples Center
+110,NOP,New Orleans,Pelicans,101,GSW,Golden State,Warriors,Oracle Arena
+91,ATL,Atlanta,Hawks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+100,MIN,Minnesota,Timberwolves,84,BRO,Brooklyn,Nets,Barclays Center
+99,DEN,Denver,Nuggets,107,MEM,Memphis,Grizzlies,FedEx Forum
+104,PHX,Phoenix,Suns,97,POR,Portland,Trail Blazers,Moda Center
+108,DAL,Dallas,Mavericks,105,LAL,Los Angeles,Lakers,Staples Center
+110,NOP,New Orleans,Pelicans,103,SAC,Sacramento,Kings,Sleep Train Arena
+84,BRO,Brooklyn,Nets,83,NYK,New York,Knicks,Madison Square Garden
+82,BOS,Boston,Celtics,94,WAS,Washington,Wizards,Verizon Center
+98,UTA,Utah,Jazz,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+100,MIN,Minnesota,Timberwolves,95,ORL,Orlando,Magic,Amway Center
+85,PHI,Philadelphia,76ers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+89,CHI,Chicago,Bulls,91,ATL,Atlanta,Hawks,Philips Arena
+81,TOR,Toronto,Raptors,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+88,DET,Detroit,Pistons,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+109,HOU,Houston,Rockets,106,SAS,San Antonio,Spurs,AT&T Center
+97,POR,Portland,Trail Blazers,102,LAC,Los Angeles,Clippers,Staples Center
+108,DAL,Dallas,Mavericks,101,GSW,Golden State,Warriors,Oracle Arena
+110,NOP,New Orleans,Pelicans,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+89,CHI,Chicago,Bulls,92,MIA,Miami,Heat,American Airlines Arena
+101,GSW,Golden State,Warriors,99,DEN,Denver,Nuggets,Pepsi Center
+105,LAL,Los Angeles,Lakers,103,SAC,Sacramento,Kings,Sleep Train Arena
+87,IND,Indiana,Pacers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+86,CLE,Cleveland,Cavaliers,94,WAS,Washington,Wizards,Verizon Center
+81,TOR,Toronto,Raptors,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+98,UTA,Utah,Jazz,95,ORL,Orlando,Magic,Amway Center
+83,NYK,New York,Knicks,82,BOS,Boston,Celtics,TD Garden
+102,LAC,Los Angeles,Clippers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+88,DET,Detroit,Pistons,106,SAS,San Antonio,Spurs,AT&T Center
+103,SAC,Sacramento,Kings,97,POR,Portland,Trail Blazers,Moda Center
+105,LAL,Los Angeles,Lakers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+82,BOS,Boston,Celtics,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+83,NYK,New York,Knicks,81,TOR,Toronto,Raptors,Air Canada Centre
+85,PHI,Philadelphia,76ers,91,ATL,Atlanta,Hawks,Philips Arena
+94,WAS,Washington,Wizards,89,CHI,Chicago,Bulls,United Center
+106,SAS,San Antonio,Spurs,109,HOU,Houston,Rockets,Toyota Center
+102,LAC,Los Angeles,Clippers,100,MIN,Minnesota,Timberwolves,Target Center
+98,UTA,Utah,Jazz,92,MIA,Miami,Heat,American Airlines Arena
+107,MEM,Memphis,Grizzlies,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+88,DET,Detroit,Pistons,99,DEN,Denver,Nuggets,Pepsi Center
+84,BRO,Brooklyn,Nets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+93,CHA,Charlotte,Hornets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+95,ORL,Orlando,Magic,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+105,LAL,Los Angeles,Lakers,100,MIN,Minnesota,Timberwolves,Target Center
+104,PHX,Phoenix,Suns,101,GSW,Golden State,Warriors,Oracle Arena
+99,DEN,Denver,Nuggets,97,POR,Portland,Trail Blazers,Moda Center
+95,ORL,Orlando,Magic,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+108,DAL,Dallas,Mavericks,83,NYK,New York,Knicks,Madison Square Garden
+96,OKL,Oklahoma City,Thunder,88,DET,Detroit,Pistons,Palace of Auburn Hills
+82,BOS,Boston,Celtics,110,NOP,New Orleans,Pelicans,Smoothie King Center
+85,PHI,Philadelphia,76ers,109,HOU,Houston,Rockets,Toyota Center
+92,MIA,Miami,Heat,106,SAS,San Antonio,Spurs,AT&T Center
+107,MEM,Memphis,Grizzlies,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+84,BRO,Brooklyn,Nets,102,LAC,Los Angeles,Clippers,Staples Center
+81,TOR,Toronto,Raptors,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+91,ATL,Atlanta,Hawks,92,MIA,Miami,Heat,American Airlines Arena
+93,CHA,Charlotte,Hornets,100,MIN,Minnesota,Timberwolves,Target Center
+89,CHI,Chicago,Bulls,97,POR,Portland,Trail Blazers,Moda Center
+84,BRO,Brooklyn,Nets,105,LAL,Los Angeles,Lakers,Staples Center
+94,WAS,Washington,Wizards,85,PHI,Philadelphia,76ers,Wells Fargo Center
+110,NOP,New Orleans,Pelicans,95,ORL,Orlando,Magic,Amway Center
+86,CLE,Cleveland,Cavaliers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+108,DAL,Dallas,Mavericks,82,BOS,Boston,Celtics,TD Garden
+88,DET,Detroit,Pistons,83,NYK,New York,Knicks,Madison Square Garden
+90,MIL,Milwaukee,Bucks,91,ATL,Atlanta,Hawks,Philips Arena
+109,HOU,Houston,Rockets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+101,GSW,Golden State,Warriors,81,TOR,Toronto,Raptors,Air Canada Centre
+104,PHX,Phoenix,Suns,99,DEN,Denver,Nuggets,Pepsi Center
+107,MEM,Memphis,Grizzlies,102,LAC,Los Angeles,Clippers,Staples Center
+106,SAS,San Antonio,Spurs,103,SAC,Sacramento,Kings,Sleep Train Arena
+83,NYK,New York,Knicks,94,WAS,Washington,Wizards,Verizon Center
+90,MIL,Milwaukee,Bucks,92,MIA,Miami,Heat,American Airlines Arena
+97,POR,Portland,Trail Blazers,109,HOU,Houston,Rockets,Toyota Center
+85,PHI,Philadelphia,76ers,100,MIN,Minnesota,Timberwolves,Target Center
+89,CHI,Chicago,Bulls,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+91,ATL,Atlanta,Hawks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+104,PHX,Phoenix,Suns,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+88,DET,Detroit,Pistons,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+97,POR,Portland,Trail Blazers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+84,BRO,Brooklyn,Nets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+101,GSW,Golden State,Warriors,82,BOS,Boston,Celtics,TD Garden
+107,MEM,Memphis,Grizzlies,108,DAL,Dallas,Mavericks,American Airlines Center
+81,TOR,Toronto,Raptors,99,DEN,Denver,Nuggets,Pepsi Center
+106,SAS,San Antonio,Spurs,105,LAL,Los Angeles,Lakers,Staples Center
+102,LAC,Los Angeles,Clippers,103,SAC,Sacramento,Kings,Sleep Train Arena
+98,UTA,Utah,Jazz,109,HOU,Houston,Rockets,Toyota Center
+93,CHA,Charlotte,Hornets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+92,MIA,Miami,Heat,94,WAS,Washington,Wizards,Verizon Center
+108,DAL,Dallas,Mavericks,95,ORL,Orlando,Magic,Amway Center
+82,BOS,Boston,Celtics,88,DET,Detroit,Pistons,Palace of Auburn Hills
+104,PHX,Phoenix,Suns,85,PHI,Philadelphia,76ers,Wells Fargo Center
+100,MIN,Minnesota,Timberwolves,107,MEM,Memphis,Grizzlies,FedEx Forum
+101,GSW,Golden State,Warriors,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+89,CHI,Chicago,Bulls,102,LAC,Los Angeles,Clippers,Staples Center
+91,ATL,Atlanta,Hawks,83,NYK,New York,Knicks,Madison Square Garden
+97,POR,Portland,Trail Blazers,84,BRO,Brooklyn,Nets,Barclays Center
+87,IND,Indiana,Pacers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+81,TOR,Toronto,Raptors,103,SAC,Sacramento,Kings,Sleep Train Arena
+98,UTA,Utah,Jazz,99,DEN,Denver,Nuggets,Pepsi Center
+89,CHI,Chicago,Bulls,105,LAL,Los Angeles,Lakers,Staples Center
+92,MIA,Miami,Heat,85,PHI,Philadelphia,76ers,Wells Fargo Center
+104,PHX,Phoenix,Suns,94,WAS,Washington,Wizards,Verizon Center
+107,MEM,Memphis,Grizzlies,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+101,GSW,Golden State,Warriors,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+109,HOU,Houston,Rockets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+95,ORL,Orlando,Magic,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+82,BOS,Boston,Celtics,100,MIN,Minnesota,Timberwolves,Target Center
+108,DAL,Dallas,Mavericks,106,SAS,San Antonio,Spurs,AT&T Center
+81,TOR,Toronto,Raptors,102,LAC,Los Angeles,Clippers,Staples Center
+97,POR,Portland,Trail Blazers,83,NYK,New York,Knicks,Madison Square Garden
+110,NOP,New Orleans,Pelicans,91,ATL,Atlanta,Hawks,Philips Arena
+89,CHI,Chicago,Bulls,99,DEN,Denver,Nuggets,Pepsi Center
+96,OKL,Oklahoma City,Thunder,105,LAL,Los Angeles,Lakers,Staples Center
+107,MEM,Memphis,Grizzlies,85,PHI,Philadelphia,76ers,Wells Fargo Center
+106,SAS,San Antonio,Spurs,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+104,PHX,Phoenix,Suns,95,ORL,Orlando,Magic,Amway Center
+97,POR,Portland,Trail Blazers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+91,ATL,Atlanta,Hawks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+82,BOS,Boston,Celtics,84,BRO,Brooklyn,Nets,Barclays Center
+92,MIA,Miami,Heat,88,DET,Detroit,Pistons,Palace of Auburn Hills
+81,TOR,Toronto,Raptors,109,HOU,Houston,Rockets,Toyota Center
+102,LAC,Los Angeles,Clippers,108,DAL,Dallas,Mavericks,American Airlines Center
+99,DEN,Denver,Nuggets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+100,MIN,Minnesota,Timberwolves,110,NOP,New Orleans,Pelicans,Smoothie King Center
+105,LAL,Los Angeles,Lakers,101,GSW,Golden State,Warriors,Oracle Arena
+96,OKL,Oklahoma City,Thunder,103,SAC,Sacramento,Kings,Sleep Train Arena
+106,SAS,San Antonio,Spurs,82,BOS,Boston,Celtics,TD Garden
+94,WAS,Washington,Wizards,95,ORL,Orlando,Magic,Amway Center
+108,DAL,Dallas,Mavericks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+93,CHA,Charlotte,Hornets,83,NYK,New York,Knicks,Madison Square Garden
+89,CHI,Chicago,Bulls,85,PHI,Philadelphia,76ers,Wells Fargo Center
+102,LAC,Los Angeles,Clippers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+91,ATL,Atlanta,Hawks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+81,TOR,Toronto,Raptors,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+92,MIA,Miami,Heat,107,MEM,Memphis,Grizzlies,FedEx Forum
+84,BRO,Brooklyn,Nets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+96,OKL,Oklahoma City,Thunder,99,DEN,Denver,Nuggets,Pepsi Center
+100,MIN,Minnesota,Timberwolves,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+110,NOP,New Orleans,Pelicans,97,POR,Portland,Trail Blazers,Moda Center
+101,GSW,Golden State,Warriors,105,LAL,Los Angeles,Lakers,Staples Center
+109,HOU,Houston,Rockets,103,SAC,Sacramento,Kings,Sleep Train Arena
+106,SAS,San Antonio,Spurs,94,WAS,Washington,Wizards,Verizon Center
+83,NYK,New York,Knicks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+88,DET,Detroit,Pistons,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+107,MEM,Memphis,Grizzlies,92,MIA,Miami,Heat,American Airlines Arena
+100,MIN,Minnesota,Timberwolves,101,GSW,Golden State,Warriors,Oracle Arena
+86,CLE,Cleveland,Cavaliers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+99,DEN,Denver,Nuggets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+103,SAC,Sacramento,Kings,84,BRO,Brooklyn,Nets,Barclays Center
+90,MIL,Milwaukee,Bucks,95,ORL,Orlando,Magic,Amway Center
+102,LAC,Los Angeles,Clippers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+110,NOP,New Orleans,Pelicans,108,DAL,Dallas,Mavericks,American Airlines Center
+109,HOU,Houston,Rockets,97,POR,Portland,Trail Blazers,Moda Center
+91,ATL,Atlanta,Hawks,105,LAL,Los Angeles,Lakers,Staples Center
+103,SAC,Sacramento,Kings,94,WAS,Washington,Wizards,Verizon Center
+85,PHI,Philadelphia,76ers,81,TOR,Toronto,Raptors,Air Canada Centre
+96,OKL,Oklahoma City,Thunder,83,NYK,New York,Knicks,Madison Square Garden
+82,BOS,Boston,Celtics,92,MIA,Miami,Heat,American Airlines Arena
+93,CHA,Charlotte,Hornets,107,MEM,Memphis,Grizzlies,FedEx Forum
+98,UTA,Utah,Jazz,100,MIN,Minnesota,Timberwolves,Target Center
+91,ATL,Atlanta,Hawks,101,GSW,Golden State,Warriors,Oracle Arena
+88,DET,Detroit,Pistons,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+102,LAC,Los Angeles,Clippers,84,BRO,Brooklyn,Nets,Barclays Center
+86,CLE,Cleveland,Cavaliers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+105,LAL,Los Angeles,Lakers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+95,ORL,Orlando,Magic,106,SAS,San Antonio,Spurs,AT&T Center
+109,HOU,Houston,Rockets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+88,DET,Detroit,Pistons,82,BOS,Boston,Celtics,TD Garden
+107,MEM,Memphis,Grizzlies,81,TOR,Toronto,Raptors,Air Canada Centre
+105,LAL,Los Angeles,Lakers,89,CHI,Chicago,Bulls,United Center
+94,WAS,Washington,Wizards,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+83,NYK,New York,Knicks,100,MIN,Minnesota,Timberwolves,Target Center
+106,SAS,San Antonio,Spurs,108,DAL,Dallas,Mavericks,American Airlines Center
+92,MIA,Miami,Heat,99,DEN,Denver,Nuggets,Pepsi Center
+91,ATL,Atlanta,Hawks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+87,IND,Indiana,Pacers,97,POR,Portland,Trail Blazers,Moda Center
+108,DAL,Dallas,Mavericks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+90,MIL,Milwaukee,Bucks,84,BRO,Brooklyn,Nets,Barclays Center
+95,ORL,Orlando,Magic,107,MEM,Memphis,Grizzlies,FedEx Forum
+102,LAC,Los Angeles,Clippers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+92,MIA,Miami,Heat,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+109,HOU,Houston,Rockets,101,GSW,Golden State,Warriors,Oracle Arena
+95,ORL,Orlando,Magic,85,PHI,Philadelphia,76ers,Wells Fargo Center
+103,SAC,Sacramento,Kings,82,BOS,Boston,Celtics,TD Garden
+105,LAL,Los Angeles,Lakers,81,TOR,Toronto,Raptors,Air Canada Centre
+100,MIN,Minnesota,Timberwolves,83,NYK,New York,Knicks,Madison Square Garden
+86,CLE,Cleveland,Cavaliers,89,CHI,Chicago,Bulls,United Center
+102,LAC,Los Angeles,Clippers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+88,DET,Detroit,Pistons,91,ATL,Atlanta,Hawks,Philips Arena
+94,WAS,Washington,Wizards,106,SAS,San Antonio,Spurs,AT&T Center
+109,HOU,Houston,Rockets,99,DEN,Denver,Nuggets,Pepsi Center
+84,BRO,Brooklyn,Nets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+100,MIN,Minnesota,Timberwolves,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+91,ATL,Atlanta,Hawks,81,TOR,Toronto,Raptors,Air Canada Centre
+82,BOS,Boston,Celtics,85,PHI,Philadelphia,76ers,Wells Fargo Center
+105,LAL,Los Angeles,Lakers,107,MEM,Memphis,Grizzlies,FedEx Forum
+89,CHI,Chicago,Bulls,108,DAL,Dallas,Mavericks,American Airlines Center
+99,DEN,Denver,Nuggets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+92,MIA,Miami,Heat,97,POR,Portland,Trail Blazers,Moda Center
+104,PHX,Phoenix,Suns,101,GSW,Golden State,Warriors,Oracle Arena
+95,ORL,Orlando,Magic,88,DET,Detroit,Pistons,Palace of Auburn Hills
+110,NOP,New Orleans,Pelicans,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+103,SAC,Sacramento,Kings,83,NYK,New York,Knicks,Madison Square Garden
+87,IND,Indiana,Pacers,102,LAC,Los Angeles,Clippers,Staples Center
+99,DEN,Denver,Nuggets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+86,CLE,Cleveland,Cavaliers,81,TOR,Toronto,Raptors,Air Canada Centre
+94,WAS,Washington,Wizards,84,BRO,Brooklyn,Nets,Barclays Center
+96,OKL,Oklahoma City,Thunder,91,ATL,Atlanta,Hawks,Philips Arena
+97,POR,Portland,Trail Blazers,89,CHI,Chicago,Bulls,United Center
+106,SAS,San Antonio,Spurs,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+107,MEM,Memphis,Grizzlies,110,NOP,New Orleans,Pelicans,Smoothie King Center
+82,BOS,Boston,Celtics,109,HOU,Houston,Rockets,Toyota Center
+93,CHA,Charlotte,Hornets,108,DAL,Dallas,Mavericks,American Airlines Center
+98,UTA,Utah,Jazz,105,LAL,Los Angeles,Lakers,Staples Center
+87,IND,Indiana,Pacers,101,GSW,Golden State,Warriors,Oracle Arena
+95,ORL,Orlando,Magic,94,WAS,Washington,Wizards,Verizon Center
+83,NYK,New York,Knicks,92,MIA,Miami,Heat,American Airlines Arena
+89,CHI,Chicago,Bulls,88,DET,Detroit,Pistons,Palace of Auburn Hills
+85,PHI,Philadelphia,76ers,107,MEM,Memphis,Grizzlies,FedEx Forum
+106,SAS,San Antonio,Spurs,100,MIN,Minnesota,Timberwolves,Target Center
+104,PHX,Phoenix,Suns,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+88,DET,Detroit,Pistons,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+82,BOS,Boston,Celtics,95,ORL,Orlando,Magic,Amway Center
+99,DEN,Denver,Nuggets,84,BRO,Brooklyn,Nets,Barclays Center
+92,MIA,Miami,Heat,91,ATL,Atlanta,Hawks,Philips Arena
+97,POR,Portland,Trail Blazers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+105,LAL,Los Angeles,Lakers,109,HOU,Houston,Rockets,Toyota Center
+86,CLE,Cleveland,Cavaliers,83,NYK,New York,Knicks,Madison Square Garden
+103,SAC,Sacramento,Kings,108,DAL,Dallas,Mavericks,American Airlines Center
+87,IND,Indiana,Pacers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+101,GSW,Golden State,Warriors,102,LAC,Los Angeles,Clippers,Staples Center
+100,MIN,Minnesota,Timberwolves,81,TOR,Toronto,Raptors,Air Canada Centre
+99,DEN,Denver,Nuggets,94,WAS,Washington,Wizards,Verizon Center
+97,POR,Portland,Trail Blazers,107,MEM,Memphis,Grizzlies,FedEx Forum
+85,PHI,Philadelphia,76ers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+101,GSW,Golden State,Warriors,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+106,SAS,San Antonio,Spurs,89,CHI,Chicago,Bulls,United Center
+95,ORL,Orlando,Magic,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+92,MIA,Miami,Heat,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+81,TOR,Toronto,Raptors,82,BOS,Boston,Celtics,TD Garden
+91,ATL,Atlanta,Hawks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+109,HOU,Houston,Rockets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+88,DET,Detroit,Pistons,100,MIN,Minnesota,Timberwolves,Target Center
+87,IND,Indiana,Pacers,108,DAL,Dallas,Mavericks,American Airlines Center
+104,PHX,Phoenix,Suns,105,LAL,Los Angeles,Lakers,Staples Center
+83,NYK,New York,Knicks,103,SAC,Sacramento,Kings,Sleep Train Arena
+90,MIL,Milwaukee,Bucks,94,WAS,Washington,Wizards,Verizon Center
+99,DEN,Denver,Nuggets,95,ORL,Orlando,Magic,Amway Center
+97,POR,Portland,Trail Blazers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+93,CHA,Charlotte,Hornets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+92,MIA,Miami,Heat,89,CHI,Chicago,Bulls,United Center
+101,GSW,Golden State,Warriors,107,MEM,Memphis,Grizzlies,FedEx Forum
+108,DAL,Dallas,Mavericks,109,HOU,Houston,Rockets,Toyota Center
+84,BRO,Brooklyn,Nets,106,SAS,San Antonio,Spurs,AT&T Center
+103,SAC,Sacramento,Kings,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+110,NOP,New Orleans,Pelicans,102,LAC,Los Angeles,Clippers,Staples Center
+85,PHI,Philadelphia,76ers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+82,BOS,Boston,Celtics,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+101,GSW,Golden State,Warriors,100,MIN,Minnesota,Timberwolves,Target Center
+110,NOP,New Orleans,Pelicans,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+83,NYK,New York,Knicks,105,LAL,Los Angeles,Lakers,Staples Center
+93,CHA,Charlotte,Hornets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+90,MIL,Milwaukee,Bucks,81,TOR,Toronto,Raptors,Air Canada Centre
+94,WAS,Washington,Wizards,92,MIA,Miami,Heat,American Airlines Arena
+84,BRO,Brooklyn,Nets,109,HOU,Houston,Rockets,Toyota Center
+99,DEN,Denver,Nuggets,108,DAL,Dallas,Mavericks,American Airlines Center
+97,POR,Portland,Trail Blazers,102,LAC,Los Angeles,Clippers,Staples Center
+105,LAL,Los Angeles,Lakers,103,SAC,Sacramento,Kings,Sleep Train Arena
+107,MEM,Memphis,Grizzlies,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+95,ORL,Orlando,Magic,91,ATL,Atlanta,Hawks,Philips Arena
+100,MIN,Minnesota,Timberwolves,89,CHI,Chicago,Bulls,United Center
+101,GSW,Golden State,Warriors,110,NOP,New Orleans,Pelicans,Smoothie King Center
+83,NYK,New York,Knicks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+96,OKL,Oklahoma City,Thunder,97,POR,Portland,Trail Blazers,Moda Center
+81,TOR,Toronto,Raptors,85,PHI,Philadelphia,76ers,Wells Fargo Center
+93,CHA,Charlotte,Hornets,94,WAS,Washington,Wizards,Verizon Center
+102,LAC,Los Angeles,Clippers,95,ORL,Orlando,Magic,Amway Center
+87,IND,Indiana,Pacers,92,MIA,Miami,Heat,American Airlines Arena
+105,LAL,Los Angeles,Lakers,84,BRO,Brooklyn,Nets,Barclays Center
+86,CLE,Cleveland,Cavaliers,107,MEM,Memphis,Grizzlies,FedEx Forum
+103,SAC,Sacramento,Kings,109,HOU,Houston,Rockets,Toyota Center
+88,DET,Detroit,Pistons,108,DAL,Dallas,Mavericks,American Airlines Center
+96,OKL,Oklahoma City,Thunder,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+82,BOS,Boston,Celtics,106,SAS,San Antonio,Spurs,AT&T Center
+89,CHI,Chicago,Bulls,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+87,IND,Indiana,Pacers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+97,POR,Portland,Trail Blazers,99,DEN,Denver,Nuggets,Pepsi Center
+106,SAS,San Antonio,Spurs,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+83,NYK,New York,Knicks,101,GSW,Golden State,Warriors,Oracle Arena
+88,DET,Detroit,Pistons,94,WAS,Washington,Wizards,Verizon Center
+84,BRO,Brooklyn,Nets,95,ORL,Orlando,Magic,Amway Center
+93,CHA,Charlotte,Hornets,82,BOS,Boston,Celtics,TD Garden
+91,ATL,Atlanta,Hawks,81,TOR,Toronto,Raptors,Air Canada Centre
+90,MIL,Milwaukee,Bucks,89,CHI,Chicago,Bulls,United Center
+103,SAC,Sacramento,Kings,107,MEM,Memphis,Grizzlies,FedEx Forum
+110,NOP,New Orleans,Pelicans,109,HOU,Houston,Rockets,Toyota Center
+105,LAL,Los Angeles,Lakers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+102,LAC,Los Angeles,Clippers,92,MIA,Miami,Heat,American Airlines Arena
+108,DAL,Dallas,Mavericks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+104,PHX,Phoenix,Suns,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+87,IND,Indiana,Pacers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+93,CHA,Charlotte,Hornets,91,ATL,Atlanta,Hawks,Philips Arena
+105,LAL,Los Angeles,Lakers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+109,HOU,Houston,Rockets,100,MIN,Minnesota,Timberwolves,Target Center
+83,NYK,New York,Knicks,99,DEN,Denver,Nuggets,Pepsi Center
+97,POR,Portland,Trail Blazers,101,GSW,Golden State,Warriors,Oracle Arena
+102,LAC,Los Angeles,Clippers,94,WAS,Washington,Wizards,Verizon Center
+103,SAC,Sacramento,Kings,108,DAL,Dallas,Mavericks,American Airlines Center
+98,UTA,Utah,Jazz,107,MEM,Memphis,Grizzlies,FedEx Forum
+84,BRO,Brooklyn,Nets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+81,TOR,Toronto,Raptors,95,ORL,Orlando,Magic,Amway Center
+82,BOS,Boston,Celtics,92,MIA,Miami,Heat,American Airlines Arena
+110,NOP,New Orleans,Pelicans,106,SAS,San Antonio,Spurs,AT&T Center
+94,WAS,Washington,Wizards,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+88,DET,Detroit,Pistons,89,CHI,Chicago,Bulls,United Center
+91,ATL,Atlanta,Hawks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+104,PHX,Phoenix,Suns,100,MIN,Minnesota,Timberwolves,Target Center
+108,DAL,Dallas,Mavericks,99,DEN,Denver,Nuggets,Pepsi Center
+110,NOP,New Orleans,Pelicans,85,PHI,Philadelphia,76ers,Wells Fargo Center
+105,LAL,Los Angeles,Lakers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+84,BRO,Brooklyn,Nets,81,TOR,Toronto,Raptors,Air Canada Centre
+87,IND,Indiana,Pacers,83,NYK,New York,Knicks,Madison Square Garden
+95,ORL,Orlando,Magic,92,MIA,Miami,Heat,American Airlines Arena
+86,CLE,Cleveland,Cavaliers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+82,BOS,Boston,Celtics,107,MEM,Memphis,Grizzlies,FedEx Forum
+106,SAS,San Antonio,Spurs,109,HOU,Houston,Rockets,Toyota Center
+99,DEN,Denver,Nuggets,102,LAC,Los Angeles,Clippers,Staples Center
+98,UTA,Utah,Jazz,101,GSW,Golden State,Warriors,Oracle Arena
+97,POR,Portland,Trail Blazers,103,SAC,Sacramento,Kings,Sleep Train Arena
+90,MIL,Milwaukee,Bucks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+100,MIN,Minnesota,Timberwolves,91,ATL,Atlanta,Hawks,Philips Arena
+107,MEM,Memphis,Grizzlies,88,DET,Detroit,Pistons,Palace of Auburn Hills
+94,WAS,Washington,Wizards,89,CHI,Chicago,Bulls,United Center
+96,OKL,Oklahoma City,Thunder,110,NOP,New Orleans,Pelicans,Smoothie King Center
+103,SAC,Sacramento,Kings,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+109,HOU,Houston,Rockets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+108,DAL,Dallas,Mavericks,97,POR,Portland,Trail Blazers,Moda Center
+82,BOS,Boston,Celtics,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+101,GSW,Golden State,Warriors,84,BRO,Brooklyn,Nets,Barclays Center
+95,ORL,Orlando,Magic,83,NYK,New York,Knicks,Madison Square Garden
+105,LAL,Los Angeles,Lakers,92,MIA,Miami,Heat,American Airlines Arena
+106,SAS,San Antonio,Spurs,102,LAC,Los Angeles,Clippers,Staples Center
+89,CHI,Chicago,Bulls,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+105,LAL,Los Angeles,Lakers,95,ORL,Orlando,Magic,Amway Center
+84,BRO,Brooklyn,Nets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+96,OKL,Oklahoma City,Thunder,82,BOS,Boston,Celtics,TD Garden
+101,GSW,Golden State,Warriors,88,DET,Detroit,Pistons,Palace of Auburn Hills
+94,WAS,Washington,Wizards,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+109,HOU,Houston,Rockets,107,MEM,Memphis,Grizzlies,FedEx Forum
+92,MIA,Miami,Heat,110,NOP,New Orleans,Pelicans,Smoothie King Center
+103,SAC,Sacramento,Kings,100,MIN,Minnesota,Timberwolves,Target Center
+91,ATL,Atlanta,Hawks,99,DEN,Denver,Nuggets,Pepsi Center
+81,TOR,Toronto,Raptors,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+85,PHI,Philadelphia,76ers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+106,SAS,San Antonio,Spurs,97,POR,Portland,Trail Blazers,Moda Center
+108,DAL,Dallas,Mavericks,102,LAC,Los Angeles,Clippers,Staples Center
+82,BOS,Boston,Celtics,83,NYK,New York,Knicks,Madison Square Garden
+101,GSW,Golden State,Warriors,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+89,CHI,Chicago,Bulls,106,SAS,San Antonio,Spurs,AT&T Center
+100,MIN,Minnesota,Timberwolves,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+102,LAC,Los Angeles,Clippers,105,LAL,Los Angeles,Lakers,Staples Center
+90,MIL,Milwaukee,Bucks,94,WAS,Washington,Wizards,Verizon Center
+107,MEM,Memphis,Grizzlies,95,ORL,Orlando,Magic,Amway Center
+93,CHA,Charlotte,Hornets,84,BRO,Brooklyn,Nets,Barclays Center
+86,CLE,Cleveland,Cavaliers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+87,IND,Indiana,Pacers,89,CHI,Chicago,Bulls,United Center
+108,DAL,Dallas,Mavericks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+104,PHX,Phoenix,Suns,109,HOU,Houston,Rockets,Toyota Center
+91,ATL,Atlanta,Hawks,100,MIN,Minnesota,Timberwolves,Target Center
+81,TOR,Toronto,Raptors,97,POR,Portland,Trail Blazers,Moda Center
+99,DEN,Denver,Nuggets,102,LAC,Los Angeles,Clippers,Staples Center
+85,PHI,Philadelphia,76ers,103,SAC,Sacramento,Kings,Sleep Train Arena
+107,MEM,Memphis,Grizzlies,82,BOS,Boston,Celtics,TD Garden
+96,OKL,Oklahoma City,Thunder,92,MIA,Miami,Heat,American Airlines Arena
+109,HOU,Houston,Rockets,108,DAL,Dallas,Mavericks,American Airlines Center
+98,UTA,Utah,Jazz,105,LAL,Los Angeles,Lakers,Staples Center
+87,IND,Indiana,Pacers,94,WAS,Washington,Wizards,Verizon Center
+93,CHA,Charlotte,Hornets,95,ORL,Orlando,Magic,Amway Center
+83,NYK,New York,Knicks,91,ATL,Atlanta,Hawks,Philips Arena
+90,MIL,Milwaukee,Bucks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+84,BRO,Brooklyn,Nets,89,CHI,Chicago,Bulls,United Center
+104,PHX,Phoenix,Suns,106,SAS,San Antonio,Spurs,AT&T Center
+100,MIN,Minnesota,Timberwolves,99,DEN,Denver,Nuggets,Pepsi Center
+102,LAC,Los Angeles,Clippers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+103,SAC,Sacramento,Kings,97,POR,Portland,Trail Blazers,Moda Center
+81,TOR,Toronto,Raptors,101,GSW,Golden State,Warriors,Oracle Arena
+92,MIA,Miami,Heat,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+96,OKL,Oklahoma City,Thunder,107,MEM,Memphis,Grizzlies,FedEx Forum
+82,BOS,Boston,Celtics,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+85,PHI,Philadelphia,76ers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+81,TOR,Toronto,Raptors,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+108,DAL,Dallas,Mavericks,105,LAL,Los Angeles,Lakers,Staples Center
+89,CHI,Chicago,Bulls,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+84,BRO,Brooklyn,Nets,94,WAS,Washington,Wizards,Verizon Center
+92,MIA,Miami,Heat,82,BOS,Boston,Celtics,TD Garden
+83,NYK,New York,Knicks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+102,LAC,Los Angeles,Clippers,109,HOU,Houston,Rockets,Toyota Center
+90,MIL,Milwaukee,Bucks,100,MIN,Minnesota,Timberwolves,Target Center
+88,DET,Detroit,Pistons,91,ATL,Atlanta,Hawks,Philips Arena
+97,POR,Portland,Trail Blazers,106,SAS,San Antonio,Spurs,AT&T Center
+85,PHI,Philadelphia,76ers,99,DEN,Denver,Nuggets,Pepsi Center
+108,DAL,Dallas,Mavericks,101,GSW,Golden State,Warriors,Oracle Arena
+107,MEM,Memphis,Grizzlies,103,SAC,Sacramento,Kings,Sleep Train Arena
+90,MIL,Milwaukee,Bucks,89,CHI,Chicago,Bulls,United Center
+86,CLE,Cleveland,Cavaliers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+83,NYK,New York,Knicks,109,HOU,Houston,Rockets,Toyota Center
+104,PHX,Phoenix,Suns,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+102,LAC,Los Angeles,Clippers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+106,SAS,San Antonio,Spurs,91,ATL,Atlanta,Hawks,Philips Arena
+88,DET,Detroit,Pistons,92,MIA,Miami,Heat,American Airlines Arena
+95,ORL,Orlando,Magic,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+97,POR,Portland,Trail Blazers,100,MIN,Minnesota,Timberwolves,Target Center
+81,TOR,Toronto,Raptors,105,LAL,Los Angeles,Lakers,Staples Center
+96,OKL,Oklahoma City,Thunder,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+110,NOP,New Orleans,Pelicans,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+98,UTA,Utah,Jazz,84,BRO,Brooklyn,Nets,Barclays Center
+95,ORL,Orlando,Magic,83,NYK,New York,Knicks,Madison Square Garden
+93,CHA,Charlotte,Hornets,89,CHI,Chicago,Bulls,United Center
+94,WAS,Washington,Wizards,109,HOU,Houston,Rockets,Toyota Center
+104,PHX,Phoenix,Suns,102,LAC,Los Angeles,Clippers,Staples Center
+99,DEN,Denver,Nuggets,101,GSW,Golden State,Warriors,Oracle Arena
+100,MIN,Minnesota,Timberwolves,85,PHI,Philadelphia,76ers,Wells Fargo Center
+98,UTA,Utah,Jazz,82,BOS,Boston,Celtics,TD Garden
+87,IND,Indiana,Pacers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+94,WAS,Washington,Wizards,108,DAL,Dallas,Mavericks,American Airlines Center
+81,TOR,Toronto,Raptors,106,SAS,San Antonio,Spurs,AT&T Center
+103,SAC,Sacramento,Kings,99,DEN,Denver,Nuggets,Pepsi Center
+92,MIA,Miami,Heat,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+107,MEM,Memphis,Grizzlies,105,LAL,Los Angeles,Lakers,Staples Center
+96,OKL,Oklahoma City,Thunder,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+91,ATL,Atlanta,Hawks,95,ORL,Orlando,Magic,Amway Center
+90,MIL,Milwaukee,Bucks,83,NYK,New York,Knicks,Madison Square Garden
+89,CHI,Chicago,Bulls,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+107,MEM,Memphis,Grizzlies,102,LAC,Los Angeles,Clippers,Staples Center
+97,POR,Portland,Trail Blazers,101,GSW,Golden State,Warriors,Oracle Arena
+92,MIA,Miami,Heat,103,SAC,Sacramento,Kings,Sleep Train Arena
+84,BRO,Brooklyn,Nets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+98,UTA,Utah,Jazz,81,TOR,Toronto,Raptors,Air Canada Centre
+93,CHA,Charlotte,Hornets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+91,ATL,Atlanta,Hawks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+96,OKL,Oklahoma City,Thunder,109,HOU,Houston,Rockets,Toyota Center
+104,PHX,Phoenix,Suns,108,DAL,Dallas,Mavericks,American Airlines Center
+106,SAS,San Antonio,Spurs,99,DEN,Denver,Nuggets,Pepsi Center
+105,LAL,Los Angeles,Lakers,97,POR,Portland,Trail Blazers,Moda Center
+100,MIN,Minnesota,Timberwolves,94,WAS,Washington,Wizards,Verizon Center
+109,HOU,Houston,Rockets,95,ORL,Orlando,Magic,Amway Center
+85,PHI,Philadelphia,76ers,82,BOS,Boston,Celtics,TD Garden
+86,CLE,Cleveland,Cavaliers,84,BRO,Brooklyn,Nets,Barclays Center
+83,NYK,New York,Knicks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+92,MIA,Miami,Heat,105,LAL,Los Angeles,Lakers,Staples Center
+107,MEM,Memphis,Grizzlies,101,GSW,Golden State,Warriors,Oracle Arena
+102,LAC,Los Angeles,Clippers,103,SAC,Sacramento,Kings,Sleep Train Arena
+83,NYK,New York,Knicks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+110,NOP,New Orleans,Pelicans,82,BOS,Boston,Celtics,TD Garden
+81,TOR,Toronto,Raptors,89,CHI,Chicago,Bulls,United Center
+99,DEN,Denver,Nuggets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+98,UTA,Utah,Jazz,100,MIN,Minnesota,Timberwolves,Target Center
+91,ATL,Atlanta,Hawks,108,DAL,Dallas,Mavericks,American Airlines Center
+93,CHA,Charlotte,Hornets,106,SAS,San Antonio,Spurs,AT&T Center
+85,PHI,Philadelphia,76ers,84,BRO,Brooklyn,Nets,Barclays Center
+94,WAS,Washington,Wizards,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+92,MIA,Miami,Heat,102,LAC,Los Angeles,Clippers,Staples Center
+109,HOU,Houston,Rockets,81,TOR,Toronto,Raptors,Air Canada Centre
+98,UTA,Utah,Jazz,107,MEM,Memphis,Grizzlies,FedEx Forum
+86,CLE,Cleveland,Cavaliers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+88,DET,Detroit,Pistons,97,POR,Portland,Trail Blazers,Moda Center
+101,GSW,Golden State,Warriors,103,SAC,Sacramento,Kings,Sleep Train Arena
+95,ORL,Orlando,Magic,105,LAL,Los Angeles,Lakers,Staples Center
+110,NOP,New Orleans,Pelicans,83,NYK,New York,Knicks,Madison Square Garden
+96,OKL,Oklahoma City,Thunder,89,CHI,Chicago,Bulls,United Center
+108,DAL,Dallas,Mavericks,100,MIN,Minnesota,Timberwolves,Target Center
+89,CHI,Chicago,Bulls,94,WAS,Washington,Wizards,Verizon Center
+82,BOS,Boston,Celtics,81,TOR,Toronto,Raptors,Air Canada Centre
+91,ATL,Atlanta,Hawks,84,BRO,Brooklyn,Nets,Barclays Center
+93,CHA,Charlotte,Hornets,109,HOU,Houston,Rockets,Toyota Center
+90,MIL,Milwaukee,Bucks,106,SAS,San Antonio,Spurs,AT&T Center
+86,CLE,Cleveland,Cavaliers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+97,POR,Portland,Trail Blazers,105,LAL,Los Angeles,Lakers,Staples Center
+92,MIA,Miami,Heat,101,GSW,Golden State,Warriors,Oracle Arena
+88,DET,Detroit,Pistons,103,SAC,Sacramento,Kings,Sleep Train Arena
+83,NYK,New York,Knicks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+107,MEM,Memphis,Grizzlies,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+109,HOU,Houston,Rockets,100,MIN,Minnesota,Timberwolves,Target Center
+94,WAS,Washington,Wizards,82,BOS,Boston,Celtics,TD Garden
+95,ORL,Orlando,Magic,102,LAC,Los Angeles,Clippers,Staples Center
+86,CLE,Cleveland,Cavaliers,97,POR,Portland,Trail Blazers,Moda Center
+87,IND,Indiana,Pacers,99,DEN,Denver,Nuggets,Pepsi Center
+110,NOP,New Orleans,Pelicans,84,BRO,Brooklyn,Nets,Barclays Center
+89,CHI,Chicago,Bulls,83,NYK,New York,Knicks,Madison Square Garden
+105,LAL,Los Angeles,Lakers,106,SAS,San Antonio,Spurs,AT&T Center
+108,DAL,Dallas,Mavericks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+88,DET,Detroit,Pistons,101,GSW,Golden State,Warriors,Oracle Arena
+93,CHA,Charlotte,Hornets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+84,BRO,Brooklyn,Nets,81,TOR,Toronto,Raptors,Air Canada Centre
+92,MIA,Miami,Heat,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+107,MEM,Memphis,Grizzlies,109,HOU,Houston,Rockets,Toyota Center
+96,OKL,Oklahoma City,Thunder,100,MIN,Minnesota,Timberwolves,Target Center
+82,BOS,Boston,Celtics,91,ATL,Atlanta,Hawks,Philips Arena
+95,ORL,Orlando,Magic,97,POR,Portland,Trail Blazers,Moda Center
+86,CLE,Cleveland,Cavaliers,103,SAC,Sacramento,Kings,Sleep Train Arena
+88,DET,Detroit,Pistons,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+105,LAL,Los Angeles,Lakers,102,LAC,Los Angeles,Clippers,Staples Center
+110,NOP,New Orleans,Pelicans,89,CHI,Chicago,Bulls,United Center
+106,SAS,San Antonio,Spurs,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+85,PHI,Philadelphia,76ers,94,WAS,Washington,Wizards,Verizon Center
+95,ORL,Orlando,Magic,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+100,MIN,Minnesota,Timberwolves,108,DAL,Dallas,Mavericks,American Airlines Center
+83,NYK,New York,Knicks,81,TOR,Toronto,Raptors,Air Canada Centre
+90,MIL,Milwaukee,Bucks,91,ATL,Atlanta,Hawks,Philips Arena
+109,HOU,Houston,Rockets,84,BRO,Brooklyn,Nets,Barclays Center
+96,OKL,Oklahoma City,Thunder,103,SAC,Sacramento,Kings,Sleep Train Arena
+89,CHI,Chicago,Bulls,107,MEM,Memphis,Grizzlies,FedEx Forum
+88,DET,Detroit,Pistons,105,LAL,Los Angeles,Lakers,Staples Center
+91,ATL,Atlanta,Hawks,83,NYK,New York,Knicks,Madison Square Garden
+97,POR,Portland,Trail Blazers,94,WAS,Washington,Wizards,Verizon Center
+85,PHI,Philadelphia,76ers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+110,NOP,New Orleans,Pelicans,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+95,ORL,Orlando,Magic,99,DEN,Denver,Nuggets,Pepsi Center
+93,CHA,Charlotte,Hornets,82,BOS,Boston,Celtics,TD Garden
+86,CLE,Cleveland,Cavaliers,101,GSW,Golden State,Warriors,Oracle Arena
+98,UTA,Utah,Jazz,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+96,OKL,Oklahoma City,Thunder,102,LAC,Los Angeles,Clippers,Staples Center
+81,TOR,Toronto,Raptors,84,BRO,Brooklyn,Nets,Barclays Center
+109,HOU,Houston,Rockets,92,MIA,Miami,Heat,American Airlines Arena
+108,DAL,Dallas,Mavericks,89,CHI,Chicago,Bulls,United Center
+100,MIN,Minnesota,Timberwolves,106,SAS,San Antonio,Spurs,AT&T Center
+99,DEN,Denver,Nuggets,105,LAL,Los Angeles,Lakers,Staples Center
+81,TOR,Toronto,Raptors,85,PHI,Philadelphia,76ers,Wells Fargo Center
+107,MEM,Memphis,Grizzlies,94,WAS,Washington,Wizards,Verizon Center
+97,POR,Portland,Trail Blazers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+83,NYK,New York,Knicks,82,BOS,Boston,Celtics,TD Garden
+95,ORL,Orlando,Magic,110,NOP,New Orleans,Pelicans,Smoothie King Center
+90,MIL,Milwaukee,Bucks,109,HOU,Houston,Rockets,Toyota Center
+91,ATL,Atlanta,Hawks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+96,OKL,Oklahoma City,Thunder,101,GSW,Golden State,Warriors,Oracle Arena
+87,IND,Indiana,Pacers,103,SAC,Sacramento,Kings,Sleep Train Arena
+104,PHX,Phoenix,Suns,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+108,DAL,Dallas,Mavericks,92,MIA,Miami,Heat,American Airlines Arena
+94,WAS,Washington,Wizards,83,NYK,New York,Knicks,Madison Square Garden
+99,DEN,Denver,Nuggets,106,SAS,San Antonio,Spurs,AT&T Center
+100,MIN,Minnesota,Timberwolves,102,LAC,Los Angeles,Clippers,Staples Center
+97,POR,Portland,Trail Blazers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+81,TOR,Toronto,Raptors,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+90,MIL,Milwaukee,Bucks,95,ORL,Orlando,Magic,Amway Center
+103,SAC,Sacramento,Kings,107,MEM,Memphis,Grizzlies,FedEx Forum
+84,BRO,Brooklyn,Nets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+101,GSW,Golden State,Warriors,109,HOU,Houston,Rockets,Toyota Center
+89,CHI,Chicago,Bulls,91,ATL,Atlanta,Hawks,Philips Arena
+98,UTA,Utah,Jazz,108,DAL,Dallas,Mavericks,American Airlines Center
+87,IND,Indiana,Pacers,105,LAL,Los Angeles,Lakers,Staples Center
+97,POR,Portland,Trail Blazers,82,BOS,Boston,Celtics,TD Garden
+94,WAS,Washington,Wizards,88,DET,Detroit,Pistons,Palace of Auburn Hills
+84,BRO,Brooklyn,Nets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+85,PHI,Philadelphia,76ers,91,ATL,Atlanta,Hawks,Philips Arena
+104,PHX,Phoenix,Suns,83,NYK,New York,Knicks,Madison Square Garden
+90,MIL,Milwaukee,Bucks,92,MIA,Miami,Heat,American Airlines Arena
+109,HOU,Houston,Rockets,107,MEM,Memphis,Grizzlies,FedEx Forum
+106,SAS,San Antonio,Spurs,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+102,LAC,Los Angeles,Clippers,99,DEN,Denver,Nuggets,Pepsi Center
+87,IND,Indiana,Pacers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+103,SAC,Sacramento,Kings,89,CHI,Chicago,Bulls,United Center
+101,GSW,Golden State,Warriors,95,ORL,Orlando,Magic,Amway Center
+105,LAL,Los Angeles,Lakers,108,DAL,Dallas,Mavericks,American Airlines Center
+104,PHX,Phoenix,Suns,81,TOR,Toronto,Raptors,Air Canada Centre
+99,DEN,Denver,Nuggets,100,MIN,Minnesota,Timberwolves,Target Center
+94,WAS,Washington,Wizards,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+106,SAS,San Antonio,Spurs,84,BRO,Brooklyn,Nets,Barclays Center
+102,LAC,Los Angeles,Clippers,91,ATL,Atlanta,Hawks,Philips Arena
+101,GSW,Golden State,Warriors,92,MIA,Miami,Heat,American Airlines Arena
+103,SAC,Sacramento,Kings,88,DET,Detroit,Pistons,Palace of Auburn Hills
+109,HOU,Houston,Rockets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+86,CLE,Cleveland,Cavaliers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+83,NYK,New York,Knicks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+96,OKL,Oklahoma City,Thunder,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+106,SAS,San Antonio,Spurs,81,TOR,Toronto,Raptors,Air Canada Centre
+102,LAC,Los Angeles,Clippers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+82,BOS,Boston,Celtics,94,WAS,Washington,Wizards,Verizon Center
+89,CHI,Chicago,Bulls,95,ORL,Orlando,Magic,Amway Center
+98,UTA,Utah,Jazz,99,DEN,Denver,Nuggets,Pepsi Center
+100,MIN,Minnesota,Timberwolves,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+103,SAC,Sacramento,Kings,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+109,HOU,Houston,Rockets,82,BOS,Boston,Celtics,TD Garden
+92,MIA,Miami,Heat,84,BRO,Brooklyn,Nets,Barclays Center
+91,ATL,Atlanta,Hawks,89,CHI,Chicago,Bulls,United Center
+85,PHI,Philadelphia,76ers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+81,TOR,Toronto,Raptors,107,MEM,Memphis,Grizzlies,FedEx Forum
+96,OKL,Oklahoma City,Thunder,110,NOP,New Orleans,Pelicans,Smoothie King Center
+101,GSW,Golden State,Warriors,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+83,NYK,New York,Knicks,108,DAL,Dallas,Mavericks,American Airlines Center
+105,LAL,Los Angeles,Lakers,97,POR,Portland,Trail Blazers,Moda Center
+108,DAL,Dallas,Mavericks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+87,IND,Indiana,Pacers,100,MIN,Minnesota,Timberwolves,Target Center
+104,PHX,Phoenix,Suns,99,DEN,Denver,Nuggets,Pepsi Center
+105,LAL,Los Angeles,Lakers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+103,SAC,Sacramento,Kings,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+84,BRO,Brooklyn,Nets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+95,ORL,Orlando,Magic,82,BOS,Boston,Celtics,TD Garden
+90,MIL,Milwaukee,Bucks,81,TOR,Toronto,Raptors,Air Canada Centre
+93,CHA,Charlotte,Hornets,83,NYK,New York,Knicks,Madison Square Garden
+109,HOU,Houston,Rockets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+92,MIA,Miami,Heat,89,CHI,Chicago,Bulls,United Center
+106,SAS,San Antonio,Spurs,110,NOP,New Orleans,Pelicans,Smoothie King Center
+94,WAS,Washington,Wizards,91,ATL,Atlanta,Hawks,Philips Arena
+107,MEM,Memphis,Grizzlies,97,POR,Portland,Trail Blazers,Moda Center
+103,SAC,Sacramento,Kings,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+88,DET,Detroit,Pistons,92,MIA,Miami,Heat,American Airlines Arena
+82,BOS,Boston,Celtics,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+102,LAC,Los Angeles,Clippers,101,GSW,Golden State,Warriors,Oracle Arena
+107,MEM,Memphis,Grizzlies,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+99,DEN,Denver,Nuggets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+84,BRO,Brooklyn,Nets,100,MIN,Minnesota,Timberwolves,Target Center
+83,NYK,New York,Knicks,91,ATL,Atlanta,Hawks,Philips Arena
+96,OKL,Oklahoma City,Thunder,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+109,HOU,Houston,Rockets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+94,WAS,Washington,Wizards,110,NOP,New Orleans,Pelicans,Smoothie King Center
+95,ORL,Orlando,Magic,81,TOR,Toronto,Raptors,Air Canada Centre
+85,PHI,Philadelphia,76ers,89,CHI,Chicago,Bulls,United Center
+108,DAL,Dallas,Mavericks,106,SAS,San Antonio,Spurs,AT&T Center
+101,GSW,Golden State,Warriors,97,POR,Portland,Trail Blazers,Moda Center
+103,SAC,Sacramento,Kings,85,PHI,Philadelphia,76ers,Wells Fargo Center
+84,BRO,Brooklyn,Nets,92,MIA,Miami,Heat,American Airlines Arena
+95,ORL,Orlando,Magic,100,MIN,Minnesota,Timberwolves,Target Center
+88,DET,Detroit,Pistons,82,BOS,Boston,Celtics,TD Garden
+86,CLE,Cleveland,Cavaliers,108,DAL,Dallas,Mavericks,American Airlines Center
+107,MEM,Memphis,Grizzlies,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+83,NYK,New York,Knicks,94,WAS,Washington,Wizards,Verizon Center
+110,NOP,New Orleans,Pelicans,81,TOR,Toronto,Raptors,Air Canada Centre
+103,SAC,Sacramento,Kings,109,HOU,Houston,Rockets,Toyota Center
+96,OKL,Oklahoma City,Thunder,106,SAS,San Antonio,Spurs,AT&T Center
+93,CHA,Charlotte,Hornets,97,POR,Portland,Trail Blazers,Moda Center
+99,DEN,Denver,Nuggets,105,LAL,Los Angeles,Lakers,Staples Center
+87,IND,Indiana,Pacers,95,ORL,Orlando,Magic,Amway Center
+100,MIN,Minnesota,Timberwolves,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+81,TOR,Toronto,Raptors,82,BOS,Boston,Celtics,TD Garden
+83,NYK,New York,Knicks,84,BRO,Brooklyn,Nets,Barclays Center
+91,ATL,Atlanta,Hawks,92,MIA,Miami,Heat,American Airlines Arena
+110,NOP,New Orleans,Pelicans,88,DET,Detroit,Pistons,Palace of Auburn Hills
+85,PHI,Philadelphia,76ers,108,DAL,Dallas,Mavericks,American Airlines Center
+107,MEM,Memphis,Grizzlies,99,DEN,Denver,Nuggets,Pepsi Center
+90,MIL,Milwaukee,Bucks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+102,LAC,Los Angeles,Clippers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+89,CHI,Chicago,Bulls,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+93,CHA,Charlotte,Hornets,101,GSW,Golden State,Warriors,Oracle Arena
+105,LAL,Los Angeles,Lakers,94,WAS,Washington,Wizards,Verizon Center
+91,ATL,Atlanta,Hawks,109,HOU,Houston,Rockets,Toyota Center
+85,PHI,Philadelphia,76ers,106,SAS,San Antonio,Spurs,AT&T Center
+101,GSW,Golden State,Warriors,102,LAC,Los Angeles,Clippers,Staples Center
+81,TOR,Toronto,Raptors,95,ORL,Orlando,Magic,Amway Center
+87,IND,Indiana,Pacers,84,BRO,Brooklyn,Nets,Barclays Center
+100,MIN,Minnesota,Timberwolves,88,DET,Detroit,Pistons,Palace of Auburn Hills
+89,CHI,Chicago,Bulls,109,HOU,Houston,Rockets,Toyota Center
+107,MEM,Memphis,Grizzlies,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+105,LAL,Los Angeles,Lakers,82,BOS,Boston,Celtics,TD Garden
+90,MIL,Milwaukee,Bucks,99,DEN,Denver,Nuggets,Pepsi Center
+104,PHX,Phoenix,Suns,103,SAC,Sacramento,Kings,Sleep Train Arena
+108,DAL,Dallas,Mavericks,97,POR,Portland,Trail Blazers,Moda Center
+110,NOP,New Orleans,Pelicans,94,WAS,Washington,Wizards,Verizon Center
+95,ORL,Orlando,Magic,91,ATL,Atlanta,Hawks,Philips Arena
+88,DET,Detroit,Pistons,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+85,PHI,Philadelphia,76ers,92,MIA,Miami,Heat,American Airlines Arena
+86,CLE,Cleveland,Cavaliers,83,NYK,New York,Knicks,Madison Square Garden
+93,CHA,Charlotte,Hornets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+90,MIL,Milwaukee,Bucks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+99,DEN,Denver,Nuggets,106,SAS,San Antonio,Spurs,AT&T Center
+107,MEM,Memphis,Grizzlies,100,MIN,Minnesota,Timberwolves,Target Center
+101,GSW,Golden State,Warriors,103,SAC,Sacramento,Kings,Sleep Train Arena
+81,TOR,Toronto,Raptors,84,BRO,Brooklyn,Nets,Barclays Center
+102,LAC,Los Angeles,Clippers,82,BOS,Boston,Celtics,TD Garden
+97,POR,Portland,Trail Blazers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+105,LAL,Los Angeles,Lakers,83,NYK,New York,Knicks,Madison Square Garden
+86,CLE,Cleveland,Cavaliers,94,WAS,Washington,Wizards,Verizon Center
+96,OKL,Oklahoma City,Thunder,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+102,LAC,Los Angeles,Clippers,81,TOR,Toronto,Raptors,Air Canada Centre
+98,UTA,Utah,Jazz,91,ATL,Atlanta,Hawks,Philips Arena
+85,PHI,Philadelphia,76ers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+104,PHX,Phoenix,Suns,110,NOP,New Orleans,Pelicans,Smoothie King Center
+92,MIA,Miami,Heat,100,MIN,Minnesota,Timberwolves,Target Center
+108,DAL,Dallas,Mavericks,99,DEN,Denver,Nuggets,Pepsi Center
+106,SAS,San Antonio,Spurs,107,MEM,Memphis,Grizzlies,FedEx Forum
+89,CHI,Chicago,Bulls,103,SAC,Sacramento,Kings,Sleep Train Arena
+84,BRO,Brooklyn,Nets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+95,ORL,Orlando,Magic,109,HOU,Houston,Rockets,Toyota Center
+97,POR,Portland,Trail Blazers,108,DAL,Dallas,Mavericks,American Airlines Center
+106,SAS,San Antonio,Spurs,85,PHI,Philadelphia,76ers,Wells Fargo Center
+86,CLE,Cleveland,Cavaliers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+94,WAS,Washington,Wizards,84,BRO,Brooklyn,Nets,Barclays Center
+99,DEN,Denver,Nuggets,91,ATL,Atlanta,Hawks,Philips Arena
+105,LAL,Los Angeles,Lakers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+92,MIA,Miami,Heat,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+104,PHX,Phoenix,Suns,107,MEM,Memphis,Grizzlies,FedEx Forum
+98,UTA,Utah,Jazz,110,NOP,New Orleans,Pelicans,Smoothie King Center
+81,TOR,Toronto,Raptors,100,MIN,Minnesota,Timberwolves,Target Center
+102,LAC,Los Angeles,Clippers,83,NYK,New York,Knicks,Madison Square Garden
+89,CHI,Chicago,Bulls,101,GSW,Golden State,Warriors,Oracle Arena
+82,BOS,Boston,Celtics,103,SAC,Sacramento,Kings,Sleep Train Arena
+109,HOU,Houston,Rockets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+85,PHI,Philadelphia,76ers,95,ORL,Orlando,Magic,Amway Center
+86,CLE,Cleveland,Cavaliers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+98,UTA,Utah,Jazz,108,DAL,Dallas,Mavericks,American Airlines Center
+82,BOS,Boston,Celtics,97,POR,Portland,Trail Blazers,Moda Center
+92,MIA,Miami,Heat,84,BRO,Brooklyn,Nets,Barclays Center
+99,DEN,Denver,Nuggets,83,NYK,New York,Knicks,Madison Square Garden
+106,SAS,San Antonio,Spurs,88,DET,Detroit,Pistons,Palace of Auburn Hills
+105,LAL,Los Angeles,Lakers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+101,GSW,Golden State,Warriors,107,MEM,Memphis,Grizzlies,FedEx Forum
+110,NOP,New Orleans,Pelicans,100,MIN,Minnesota,Timberwolves,Target Center
+87,IND,Indiana,Pacers,94,WAS,Washington,Wizards,Verizon Center
+89,CHI,Chicago,Bulls,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+91,ATL,Atlanta,Hawks,103,SAC,Sacramento,Kings,Sleep Train Arena
+102,LAC,Los Angeles,Clippers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+90,MIL,Milwaukee,Bucks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+92,MIA,Miami,Heat,85,PHI,Philadelphia,76ers,Wells Fargo Center
+99,DEN,Denver,Nuggets,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+101,GSW,Golden State,Warriors,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+104,PHX,Phoenix,Suns,109,HOU,Houston,Rockets,Toyota Center
+95,ORL,Orlando,Magic,108,DAL,Dallas,Mavericks,American Airlines Center
+82,BOS,Boston,Celtics,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+89,CHI,Chicago,Bulls,100,MIN,Minnesota,Timberwolves,Target Center
+106,SAS,San Antonio,Spurs,83,NYK,New York,Knicks,Madison Square Garden
+88,DET,Detroit,Pistons,81,TOR,Toronto,Raptors,Air Canada Centre
+110,NOP,New Orleans,Pelicans,103,SAC,Sacramento,Kings,Sleep Train Arena
+85,PHI,Philadelphia,76ers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+106,SAS,San Antonio,Spurs,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+107,MEM,Memphis,Grizzlies,84,BRO,Brooklyn,Nets,Barclays Center
+95,ORL,Orlando,Magic,92,MIA,Miami,Heat,American Airlines Arena
+96,OKL,Oklahoma City,Thunder,94,WAS,Washington,Wizards,Verizon Center
+88,DET,Detroit,Pistons,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+82,BOS,Boston,Celtics,108,DAL,Dallas,Mavericks,American Airlines Center
+101,GSW,Golden State,Warriors,99,DEN,Denver,Nuggets,Pepsi Center
+102,LAC,Los Angeles,Clippers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+110,NOP,New Orleans,Pelicans,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+91,ATL,Atlanta,Hawks,97,POR,Portland,Trail Blazers,Moda Center
+81,TOR,Toronto,Raptors,89,CHI,Chicago,Bulls,United Center
+86,CLE,Cleveland,Cavaliers,100,MIN,Minnesota,Timberwolves,Target Center
+103,SAC,Sacramento,Kings,105,LAL,Los Angeles,Lakers,Staples Center
+106,SAS,San Antonio,Spurs,95,ORL,Orlando,Magic,Amway Center
+87,IND,Indiana,Pacers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+85,PHI,Philadelphia,76ers,82,BOS,Boston,Celtics,TD Garden
+93,CHA,Charlotte,Hornets,81,TOR,Toronto,Raptors,Air Canada Centre
+90,MIL,Milwaukee,Bucks,84,BRO,Brooklyn,Nets,Barclays Center
+108,DAL,Dallas,Mavericks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+110,NOP,New Orleans,Pelicans,107,MEM,Memphis,Grizzlies,FedEx Forum
+92,MIA,Miami,Heat,109,HOU,Houston,Rockets,Toyota Center
+100,MIN,Minnesota,Timberwolves,99,DEN,Denver,Nuggets,Pepsi Center
+97,POR,Portland,Trail Blazers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+105,LAL,Los Angeles,Lakers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+83,NYK,New York,Knicks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+91,ATL,Atlanta,Hawks,102,LAC,Los Angeles,Clippers,Staples Center
+103,SAC,Sacramento,Kings,101,GSW,Golden State,Warriors,Oracle Arena
+94,WAS,Washington,Wizards,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+82,BOS,Boston,Celtics,89,CHI,Chicago,Bulls,United Center
+97,POR,Portland,Trail Blazers,95,ORL,Orlando,Magic,Amway Center
+93,CHA,Charlotte,Hornets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+109,HOU,Houston,Rockets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+83,NYK,New York,Knicks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+102,LAC,Los Angeles,Clippers,101,GSW,Golden State,Warriors,Oracle Arena
+99,DEN,Denver,Nuggets,103,SAC,Sacramento,Kings,Sleep Train Arena
+94,WAS,Washington,Wizards,85,PHI,Philadelphia,76ers,Wells Fargo Center
+107,MEM,Memphis,Grizzlies,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+82,BOS,Boston,Celtics,81,TOR,Toronto,Raptors,Air Canada Centre
+104,PHX,Phoenix,Suns,89,CHI,Chicago,Bulls,United Center
+98,UTA,Utah,Jazz,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+105,LAL,Los Angeles,Lakers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+108,DAL,Dallas,Mavericks,100,MIN,Minnesota,Timberwolves,Target Center
+92,MIA,Miami,Heat,91,ATL,Atlanta,Hawks,Philips Arena
+84,BRO,Brooklyn,Nets,99,DEN,Denver,Nuggets,Pepsi Center
+106,SAS,San Antonio,Spurs,102,LAC,Los Angeles,Clippers,Staples Center
+93,CHA,Charlotte,Hornets,103,SAC,Sacramento,Kings,Sleep Train Arena
+91,ATL,Atlanta,Hawks,95,ORL,Orlando,Magic,Amway Center
+85,PHI,Philadelphia,76ers,83,NYK,New York,Knicks,Madison Square Garden
+87,IND,Indiana,Pacers,92,MIA,Miami,Heat,American Airlines Arena
+110,NOP,New Orleans,Pelicans,108,DAL,Dallas,Mavericks,American Airlines Center
+89,CHI,Chicago,Bulls,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+100,MIN,Minnesota,Timberwolves,109,HOU,Houston,Rockets,Toyota Center
+84,BRO,Brooklyn,Nets,101,GSW,Golden State,Warriors,Oracle Arena
+106,SAS,San Antonio,Spurs,105,LAL,Los Angeles,Lakers,Staples Center
+104,PHX,Phoenix,Suns,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+107,MEM,Memphis,Grizzlies,99,DEN,Denver,Nuggets,Pepsi Center
+98,UTA,Utah,Jazz,94,WAS,Washington,Wizards,Verizon Center
+97,POR,Portland,Trail Blazers,81,TOR,Toronto,Raptors,Air Canada Centre
+82,BOS,Boston,Celtics,88,DET,Detroit,Pistons,Palace of Auburn Hills
+110,NOP,New Orleans,Pelicans,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+93,CHA,Charlotte,Hornets,102,LAC,Los Angeles,Clippers,Staples Center
+81,TOR,Toronto,Raptors,83,NYK,New York,Knicks,Madison Square Garden
+101,GSW,Golden State,Warriors,85,PHI,Philadelphia,76ers,Wells Fargo Center
+90,MIL,Milwaukee,Bucks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+91,ATL,Atlanta,Hawks,82,BOS,Boston,Celtics,TD Garden
+92,MIA,Miami,Heat,108,DAL,Dallas,Mavericks,American Airlines Center
+87,IND,Indiana,Pacers,109,HOU,Houston,Rockets,Toyota Center
+100,MIN,Minnesota,Timberwolves,103,SAC,Sacramento,Kings,Sleep Train Arena
+101,GSW,Golden State,Warriors,94,WAS,Washington,Wizards,Verizon Center
+97,POR,Portland,Trail Blazers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+99,DEN,Denver,Nuggets,89,CHI,Chicago,Bulls,United Center
+104,PHX,Phoenix,Suns,107,MEM,Memphis,Grizzlies,FedEx Forum
+98,UTA,Utah,Jazz,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+93,CHA,Charlotte,Hornets,105,LAL,Los Angeles,Lakers,Staples Center
+83,NYK,New York,Knicks,95,ORL,Orlando,Magic,Amway Center
+94,WAS,Washington,Wizards,81,TOR,Toronto,Raptors,Air Canada Centre
+108,DAL,Dallas,Mavericks,91,ATL,Atlanta,Hawks,Philips Arena
+85,PHI,Philadelphia,76ers,92,MIA,Miami,Heat,American Airlines Arena
+86,CLE,Cleveland,Cavaliers,82,BOS,Boston,Celtics,TD Garden
+99,DEN,Denver,Nuggets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+88,DET,Detroit,Pistons,110,NOP,New Orleans,Pelicans,Smoothie King Center
+87,IND,Indiana,Pacers,106,SAS,San Antonio,Spurs,AT&T Center
+100,MIN,Minnesota,Timberwolves,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+109,HOU,Houston,Rockets,102,LAC,Los Angeles,Clippers,Staples Center
+84,BRO,Brooklyn,Nets,103,SAC,Sacramento,Kings,Sleep Train Arena
+101,GSW,Golden State,Warriors,89,CHI,Chicago,Bulls,United Center
+93,CHA,Charlotte,Hornets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+96,OKL,Oklahoma City,Thunder,97,POR,Portland,Trail Blazers,Moda Center
+83,NYK,New York,Knicks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+81,TOR,Toronto,Raptors,94,WAS,Washington,Wizards,Verizon Center
+92,MIA,Miami,Heat,95,ORL,Orlando,Magic,Amway Center
+86,CLE,Cleveland,Cavaliers,91,ATL,Atlanta,Hawks,Philips Arena
+102,LAC,Los Angeles,Clippers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+107,MEM,Memphis,Grizzlies,108,DAL,Dallas,Mavericks,American Airlines Center
+84,BRO,Brooklyn,Nets,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+96,OKL,Oklahoma City,Thunder,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+106,SAS,San Antonio,Spurs,110,NOP,New Orleans,Pelicans,Smoothie King Center
+82,BOS,Boston,Celtics,105,LAL,Los Angeles,Lakers,Staples Center
+88,DET,Detroit,Pistons,85,PHI,Philadelphia,76ers,Wells Fargo Center
+81,TOR,Toronto,Raptors,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+86,CLE,Cleveland,Cavaliers,92,MIA,Miami,Heat,American Airlines Arena
+102,LAC,Los Angeles,Clippers,89,CHI,Chicago,Bulls,United Center
+93,CHA,Charlotte,Hornets,99,DEN,Denver,Nuggets,Pepsi Center
+107,MEM,Memphis,Grizzlies,109,HOU,Houston,Rockets,Toyota Center
+100,MIN,Minnesota,Timberwolves,106,SAS,San Antonio,Spurs,AT&T Center
+84,BRO,Brooklyn,Nets,97,POR,Portland,Trail Blazers,Moda Center
+87,IND,Indiana,Pacers,91,ATL,Atlanta,Hawks,Philips Arena
+101,GSW,Golden State,Warriors,83,NYK,New York,Knicks,Madison Square Garden
+82,BOS,Boston,Celtics,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+95,ORL,Orlando,Magic,94,WAS,Washington,Wizards,Verizon Center
+98,UTA,Utah,Jazz,103,SAC,Sacramento,Kings,Sleep Train Arena
+96,OKL,Oklahoma City,Thunder,108,DAL,Dallas,Mavericks,American Airlines Center
+110,NOP,New Orleans,Pelicans,105,LAL,Los Angeles,Lakers,Staples Center
+90,MIL,Milwaukee,Bucks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+83,NYK,New York,Knicks,95,ORL,Orlando,Magic,Amway Center
+92,MIA,Miami,Heat,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+101,GSW,Golden State,Warriors,91,ATL,Atlanta,Hawks,Philips Arena
+89,CHI,Chicago,Bulls,88,DET,Detroit,Pistons,Palace of Auburn Hills
+84,BRO,Brooklyn,Nets,107,MEM,Memphis,Grizzlies,FedEx Forum
+87,IND,Indiana,Pacers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+109,HOU,Houston,Rockets,106,SAS,San Antonio,Spurs,AT&T Center
+103,SAC,Sacramento,Kings,99,DEN,Denver,Nuggets,Pepsi Center
+110,NOP,New Orleans,Pelicans,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+82,BOS,Boston,Celtics,102,LAC,Los Angeles,Clippers,Staples Center
+97,POR,Portland,Trail Blazers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+105,LAL,Los Angeles,Lakers,108,DAL,Dallas,Mavericks,American Airlines Center
+94,WAS,Washington,Wizards,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+89,CHI,Chicago,Bulls,95,ORL,Orlando,Magic,Amway Center
+84,BRO,Brooklyn,Nets,91,ATL,Atlanta,Hawks,Philips Arena
+93,CHA,Charlotte,Hornets,92,MIA,Miami,Heat,American Airlines Arena
+83,NYK,New York,Knicks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+81,TOR,Toronto,Raptors,110,NOP,New Orleans,Pelicans,Smoothie King Center
+98,UTA,Utah,Jazz,109,HOU,Houston,Rockets,Toyota Center
+102,LAC,Los Angeles,Clippers,100,MIN,Minnesota,Timberwolves,Target Center
+88,DET,Detroit,Pistons,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+103,SAC,Sacramento,Kings,106,SAS,San Antonio,Spurs,AT&T Center
+94,WAS,Washington,Wizards,99,DEN,Denver,Nuggets,Pepsi Center
+82,BOS,Boston,Celtics,101,GSW,Golden State,Warriors,Oracle Arena
+86,CLE,Cleveland,Cavaliers,88,DET,Detroit,Pistons,Palace of Auburn Hills
+102,LAC,Los Angeles,Clippers,107,MEM,Memphis,Grizzlies,FedEx Forum
+106,SAS,San Antonio,Spurs,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+85,PHI,Philadelphia,76ers,97,POR,Portland,Trail Blazers,Moda Center
+105,LAL,Los Angeles,Lakers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+95,ORL,Orlando,Magic,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+109,HOU,Houston,Rockets,89,CHI,Chicago,Bulls,United Center
+87,IND,Indiana,Pacers,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+101,GSW,Golden State,Warriors,100,MIN,Minnesota,Timberwolves,Target Center
+81,TOR,Toronto,Raptors,91,ATL,Atlanta,Hawks,Philips Arena
+82,BOS,Boston,Celtics,99,DEN,Denver,Nuggets,Pepsi Center
+84,BRO,Brooklyn,Nets,108,DAL,Dallas,Mavericks,American Airlines Center
+94,WAS,Washington,Wizards,103,SAC,Sacramento,Kings,Sleep Train Arena
+98,UTA,Utah,Jazz,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+85,PHI,Philadelphia,76ers,102,LAC,Los Angeles,Clippers,Staples Center
+83,NYK,New York,Knicks,88,DET,Detroit,Pistons,Palace of Auburn Hills
+110,NOP,New Orleans,Pelicans,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+86,CLE,Cleveland,Cavaliers,95,ORL,Orlando,Magic,Amway Center
+100,MIN,Minnesota,Timberwolves,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+81,TOR,Toronto,Raptors,92,MIA,Miami,Heat,American Airlines Arena
+101,GSW,Golden State,Warriors,106,SAS,San Antonio,Spurs,AT&T Center
+91,ATL,Atlanta,Hawks,107,MEM,Memphis,Grizzlies,FedEx Forum
+104,PHX,Phoenix,Suns,108,DAL,Dallas,Mavericks,American Airlines Center
+94,WAS,Washington,Wizards,97,POR,Portland,Trail Blazers,Moda Center
+99,DEN,Denver,Nuggets,103,SAC,Sacramento,Kings,Sleep Train Arena
+89,CHI,Chicago,Bulls,82,BOS,Boston,Celtics,TD Garden
+83,NYK,New York,Knicks,84,BRO,Brooklyn,Nets,Barclays Center
+92,MIA,Miami,Heat,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+97,POR,Portland,Trail Blazers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+86,CLE,Cleveland,Cavaliers,109,HOU,Houston,Rockets,Toyota Center
+85,PHI,Philadelphia,76ers,105,LAL,Los Angeles,Lakers,Staples Center
+89,CHI,Chicago,Bulls,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+108,DAL,Dallas,Mavericks,81,TOR,Toronto,Raptors,Air Canada Centre
+90,MIL,Milwaukee,Bucks,107,MEM,Memphis,Grizzlies,FedEx Forum
+91,ATL,Atlanta,Hawks,106,SAS,San Antonio,Spurs,AT&T Center
+94,WAS,Washington,Wizards,100,MIN,Minnesota,Timberwolves,Target Center
+102,LAC,Los Angeles,Clippers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+95,ORL,Orlando,Magic,103,SAC,Sacramento,Kings,Sleep Train Arena
+105,LAL,Los Angeles,Lakers,99,DEN,Denver,Nuggets,Pepsi Center
+88,DET,Detroit,Pistons,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+96,OKL,Oklahoma City,Thunder,84,BRO,Brooklyn,Nets,Barclays Center
+87,IND,Indiana,Pacers,83,NYK,New York,Knicks,Madison Square Garden
+97,POR,Portland,Trail Blazers,110,NOP,New Orleans,Pelicans,Smoothie King Center
+85,PHI,Philadelphia,76ers,101,GSW,Golden State,Warriors,Oracle Arena
+108,DAL,Dallas,Mavericks,94,WAS,Washington,Wizards,Verizon Center
+93,CHA,Charlotte,Hornets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+100,MIN,Minnesota,Timberwolves,82,BOS,Boston,Celtics,TD Garden
+110,NOP,New Orleans,Pelicans,92,MIA,Miami,Heat,American Airlines Arena
+98,UTA,Utah,Jazz,88,DET,Detroit,Pistons,Palace of Auburn Hills
+107,MEM,Memphis,Grizzlies,89,CHI,Chicago,Bulls,United Center
+105,LAL,Los Angeles,Lakers,109,HOU,Houston,Rockets,Toyota Center
+97,POR,Portland,Trail Blazers,106,SAS,San Antonio,Spurs,AT&T Center
+103,SAC,Sacramento,Kings,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+90,MIL,Milwaukee,Bucks,102,LAC,Los Angeles,Clippers,Staples Center
+98,UTA,Utah,Jazz,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+96,OKL,Oklahoma City,Thunder,81,TOR,Toronto,Raptors,Air Canada Centre
+84,BRO,Brooklyn,Nets,83,NYK,New York,Knicks,Madison Square Garden
+107,MEM,Memphis,Grizzlies,91,ATL,Atlanta,Hawks,Philips Arena
+102,LAC,Los Angeles,Clippers,99,DEN,Denver,Nuggets,Pepsi Center
+95,ORL,Orlando,Magic,101,GSW,Golden State,Warriors,Oracle Arena
+108,DAL,Dallas,Mavericks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+89,CHI,Chicago,Bulls,94,WAS,Washington,Wizards,Verizon Center
+82,BOS,Boston,Celtics,84,BRO,Brooklyn,Nets,Barclays Center
+81,TOR,Toronto,Raptors,88,DET,Detroit,Pistons,Palace of Auburn Hills
+109,HOU,Houston,Rockets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+100,MIN,Minnesota,Timberwolves,92,MIA,Miami,Heat,American Airlines Arena
+95,ORL,Orlando,Magic,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+90,MIL,Milwaukee,Bucks,105,LAL,Los Angeles,Lakers,Staples Center
+103,SAC,Sacramento,Kings,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+97,POR,Portland,Trail Blazers,91,ATL,Atlanta,Hawks,Philips Arena
+94,WAS,Washington,Wizards,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+86,CLE,Cleveland,Cavaliers,102,LAC,Los Angeles,Clippers,Staples Center
+98,UTA,Utah,Jazz,89,CHI,Chicago,Bulls,United Center
+106,SAS,San Antonio,Spurs,107,MEM,Memphis,Grizzlies,FedEx Forum
+109,HOU,Houston,Rockets,99,DEN,Denver,Nuggets,Pepsi Center
+90,MIL,Milwaukee,Bucks,101,GSW,Golden State,Warriors,Oracle Arena
+108,DAL,Dallas,Mavericks,84,BRO,Brooklyn,Nets,Barclays Center
+82,BOS,Boston,Celtics,85,PHI,Philadelphia,76ers,Wells Fargo Center
+104,PHX,Phoenix,Suns,88,DET,Detroit,Pistons,Palace of Auburn Hills
+100,MIN,Minnesota,Timberwolves,110,NOP,New Orleans,Pelicans,Smoothie King Center
+87,IND,Indiana,Pacers,81,TOR,Toronto,Raptors,Air Canada Centre
+97,POR,Portland,Trail Blazers,92,MIA,Miami,Heat,American Airlines Arena
+103,SAC,Sacramento,Kings,106,SAS,San Antonio,Spurs,AT&T Center
+86,CLE,Cleveland,Cavaliers,105,LAL,Los Angeles,Lakers,Staples Center
+91,ATL,Atlanta,Hawks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+85,PHI,Philadelphia,76ers,95,ORL,Orlando,Magic,Amway Center
+98,UTA,Utah,Jazz,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+94,WAS,Washington,Wizards,82,BOS,Boston,Celtics,TD Garden
+99,DEN,Denver,Nuggets,109,HOU,Houston,Rockets,Toyota Center
+101,GSW,Golden State,Warriors,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+83,NYK,New York,Knicks,102,LAC,Los Angeles,Clippers,Staples Center
+89,CHI,Chicago,Bulls,81,TOR,Toronto,Raptors,Air Canada Centre
+88,DET,Detroit,Pistons,84,BRO,Brooklyn,Nets,Barclays Center
+104,PHX,Phoenix,Suns,92,MIA,Miami,Heat,American Airlines Arena
+107,MEM,Memphis,Grizzlies,110,NOP,New Orleans,Pelicans,Smoothie King Center
+101,GSW,Golden State,Warriors,108,DAL,Dallas,Mavericks,American Airlines Center
+106,SAS,San Antonio,Spurs,100,MIN,Minnesota,Timberwolves,Target Center
+90,MIL,Milwaukee,Bucks,97,POR,Portland,Trail Blazers,Moda Center
+102,LAC,Los Angeles,Clippers,105,LAL,Los Angeles,Lakers,Staples Center
+93,CHA,Charlotte,Hornets,95,ORL,Orlando,Magic,Amway Center
+87,IND,Indiana,Pacers,82,BOS,Boston,Celtics,TD Garden
+88,DET,Detroit,Pistons,89,CHI,Chicago,Bulls,United Center
+85,PHI,Philadelphia,76ers,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+91,ATL,Atlanta,Hawks,94,WAS,Washington,Wizards,Verizon Center
+86,CLE,Cleveland,Cavaliers,99,DEN,Denver,Nuggets,Pepsi Center
+90,MIL,Milwaukee,Bucks,103,SAC,Sacramento,Kings,Sleep Train Arena
+83,NYK,New York,Knicks,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+104,PHX,Phoenix,Suns,84,BRO,Brooklyn,Nets,Barclays Center
+81,TOR,Toronto,Raptors,92,MIA,Miami,Heat,American Airlines Arena
+102,LAC,Los Angeles,Clippers,108,DAL,Dallas,Mavericks,American Airlines Center
+107,MEM,Memphis,Grizzlies,106,SAS,San Antonio,Spurs,AT&T Center
+83,NYK,New York,Knicks,97,POR,Portland,Trail Blazers,Moda Center
+84,BRO,Brooklyn,Nets,94,WAS,Washington,Wizards,Verizon Center
+86,CLE,Cleveland,Cavaliers,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+88,DET,Detroit,Pistons,95,ORL,Orlando,Magic,Amway Center
+99,DEN,Denver,Nuggets,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+104,PHX,Phoenix,Suns,82,BOS,Boston,Celtics,TD Garden
+85,PHI,Philadelphia,76ers,89,CHI,Chicago,Bulls,United Center
+91,ATL,Atlanta,Hawks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+110,NOP,New Orleans,Pelicans,109,HOU,Houston,Rockets,Toyota Center
+100,MIN,Minnesota,Timberwolves,105,LAL,Los Angeles,Lakers,Staples Center
+103,SAC,Sacramento,Kings,101,GSW,Golden State,Warriors,Oracle Arena
+98,UTA,Utah,Jazz,102,LAC,Los Angeles,Clippers,Staples Center
+94,WAS,Washington,Wizards,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+81,TOR,Toronto,Raptors,108,DAL,Dallas,Mavericks,American Airlines Center
+83,NYK,New York,Knicks,106,SAS,San Antonio,Spurs,AT&T Center
+100,MIN,Minnesota,Timberwolves,97,POR,Portland,Trail Blazers,Moda Center
+104,PHX,Phoenix,Suns,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+84,BRO,Brooklyn,Nets,91,ATL,Atlanta,Hawks,Philips Arena
+103,SAC,Sacramento,Kings,102,LAC,Los Angeles,Clippers,Staples Center
+89,CHI,Chicago,Bulls,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+96,OKL,Oklahoma City,Thunder,109,HOU,Houston,Rockets,Toyota Center
+85,PHI,Philadelphia,76ers,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+92,MIA,Miami,Heat,82,BOS,Boston,Celtics,TD Garden
+107,MEM,Memphis,Grizzlies,101,GSW,Golden State,Warriors,Oracle Arena
+110,NOP,New Orleans,Pelicans,99,DEN,Denver,Nuggets,Pepsi Center
+97,POR,Portland,Trail Blazers,105,LAL,Los Angeles,Lakers,Staples Center
+95,ORL,Orlando,Magic,81,TOR,Toronto,Raptors,Air Canada Centre
+88,DET,Detroit,Pistons,83,NYK,New York,Knicks,Madison Square Garden
+86,CLE,Cleveland,Cavaliers,106,SAS,San Antonio,Spurs,AT&T Center
+96,OKL,Oklahoma City,Thunder,108,DAL,Dallas,Mavericks,American Airlines Center
+107,MEM,Memphis,Grizzlies,103,SAC,Sacramento,Kings,Sleep Train Arena
+110,NOP,New Orleans,Pelicans,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+90,MIL,Milwaukee,Bucks,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+100,MIN,Minnesota,Timberwolves,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+85,PHI,Philadelphia,76ers,84,BRO,Brooklyn,Nets,Barclays Center
+104,PHX,Phoenix,Suns,91,ATL,Atlanta,Hawks,Philips Arena
+92,MIA,Miami,Heat,88,DET,Detroit,Pistons,Palace of Auburn Hills
+101,GSW,Golden State,Warriors,109,HOU,Houston,Rockets,Toyota Center
+99,DEN,Denver,Nuggets,97,POR,Portland,Trail Blazers,Moda Center
+94,WAS,Washington,Wizards,105,LAL,Los Angeles,Lakers,Staples Center
+91,ATL,Atlanta,Hawks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+96,OKL,Oklahoma City,Thunder,95,ORL,Orlando,Magic,Amway Center
+90,MIL,Milwaukee,Bucks,82,BOS,Boston,Celtics,TD Garden
+93,CHA,Charlotte,Hornets,81,TOR,Toronto,Raptors,Air Canada Centre
+92,MIA,Miami,Heat,83,NYK,New York,Knicks,Madison Square Garden
+87,IND,Indiana,Pacers,107,MEM,Memphis,Grizzlies,FedEx Forum
+108,DAL,Dallas,Mavericks,110,NOP,New Orleans,Pelicans,Smoothie King Center
+101,GSW,Golden State,Warriors,106,SAS,San Antonio,Spurs,AT&T Center
+94,WAS,Washington,Wizards,102,LAC,Los Angeles,Clippers,Staples Center
+98,UTA,Utah,Jazz,103,SAC,Sacramento,Kings,Sleep Train Arena
+84,BRO,Brooklyn,Nets,88,DET,Detroit,Pistons,Palace of Auburn Hills
+86,CLE,Cleveland,Cavaliers,89,CHI,Chicago,Bulls,United Center
+105,LAL,Los Angeles,Lakers,100,MIN,Minnesota,Timberwolves,Target Center
+102,LAC,Los Angeles,Clippers,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+109,HOU,Houston,Rockets,97,POR,Portland,Trail Blazers,Moda Center
+87,IND,Indiana,Pacers,81,TOR,Toronto,Raptors,Air Canada Centre
+99,DEN,Denver,Nuggets,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+85,PHI,Philadelphia,76ers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+95,ORL,Orlando,Magic,82,BOS,Boston,Celtics,TD Garden
+88,DET,Detroit,Pistons,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+108,DAL,Dallas,Mavericks,107,MEM,Memphis,Grizzlies,FedEx Forum
+103,SAC,Sacramento,Kings,110,NOP,New Orleans,Pelicans,Smoothie King Center
+83,NYK,New York,Knicks,92,MIA,Miami,Heat,American Airlines Arena
+106,SAS,San Antonio,Spurs,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+94,WAS,Washington,Wizards,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+109,HOU,Houston,Rockets,101,GSW,Golden State,Warriors,Oracle Arena
+105,LAL,Los Angeles,Lakers,102,LAC,Los Angeles,Clippers,Staples Center
+91,ATL,Atlanta,Hawks,89,CHI,Chicago,Bulls,United Center
+95,ORL,Orlando,Magic,84,BRO,Brooklyn,Nets,Barclays Center
+103,SAC,Sacramento,Kings,100,MIN,Minnesota,Timberwolves,Target Center
+104,PHX,Phoenix,Suns,97,POR,Portland,Trail Blazers,Moda Center
+82,BOS,Boston,Celtics,83,NYK,New York,Knicks,Madison Square Garden
+93,CHA,Charlotte,Hornets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+107,MEM,Memphis,Grizzlies,105,LAL,Los Angeles,Lakers,Staples Center
+108,DAL,Dallas,Mavericks,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+98,UTA,Utah,Jazz,106,SAS,San Antonio,Spurs,AT&T Center
+89,CHI,Chicago,Bulls,110,NOP,New Orleans,Pelicans,Smoothie King Center
+85,PHI,Philadelphia,76ers,81,TOR,Toronto,Raptors,Air Canada Centre
+91,ATL,Atlanta,Hawks,84,BRO,Brooklyn,Nets,Barclays Center
+99,DEN,Denver,Nuggets,92,MIA,Miami,Heat,American Airlines Arena
+87,IND,Indiana,Pacers,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+94,WAS,Washington,Wizards,101,GSW,Golden State,Warriors,Oracle Arena
+109,HOU,Houston,Rockets,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+97,POR,Portland,Trail Blazers,100,MIN,Minnesota,Timberwolves,Target Center
+84,BRO,Brooklyn,Nets,85,PHI,Philadelphia,76ers,Wells Fargo Center
+93,CHA,Charlotte,Hornets,94,WAS,Washington,Wizards,Verizon Center
+95,ORL,Orlando,Magic,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+81,TOR,Toronto,Raptors,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+99,DEN,Denver,Nuggets,110,NOP,New Orleans,Pelicans,Smoothie King Center
+90,MIL,Milwaukee,Bucks,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+89,CHI,Chicago,Bulls,83,NYK,New York,Knicks,Madison Square Garden
+107,MEM,Memphis,Grizzlies,106,SAS,San Antonio,Spurs,AT&T Center
+97,POR,Portland,Trail Blazers,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+100,MIN,Minnesota,Timberwolves,101,GSW,Golden State,Warriors,Oracle Arena
+108,DAL,Dallas,Mavericks,103,SAC,Sacramento,Kings,Sleep Train Arena
+92,MIA,Miami,Heat,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+81,TOR,Toronto,Raptors,88,DET,Detroit,Pistons,Palace of Auburn Hills
+96,OKL,Oklahoma City,Thunder,107,MEM,Memphis,Grizzlies,FedEx Forum
+99,DEN,Denver,Nuggets,109,HOU,Houston,Rockets,Toyota Center
+86,CLE,Cleveland,Cavaliers,82,BOS,Boston,Celtics,TD Garden
+105,LAL,Los Angeles,Lakers,106,SAS,San Antonio,Spurs,AT&T Center
+101,GSW,Golden State,Warriors,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+108,DAL,Dallas,Mavericks,102,LAC,Los Angeles,Clippers,Staples Center
+89,CHI,Chicago,Bulls,85,PHI,Philadelphia,76ers,Wells Fargo Center
+84,BRO,Brooklyn,Nets,95,ORL,Orlando,Magic,Amway Center
+90,MIL,Milwaukee,Bucks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+94,WAS,Washington,Wizards,83,NYK,New York,Knicks,Madison Square Garden
+82,BOS,Boston,Celtics,91,ATL,Atlanta,Hawks,Philips Arena
+100,MIN,Minnesota,Timberwolves,97,POR,Portland,Trail Blazers,Moda Center
+91,ATL,Atlanta,Hawks,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+92,MIA,Miami,Heat,81,TOR,Toronto,Raptors,Air Canada Centre
+83,NYK,New York,Knicks,107,MEM,Memphis,Grizzlies,FedEx Forum
+88,DET,Detroit,Pistons,109,HOU,Houston,Rockets,Toyota Center
+106,SAS,San Antonio,Spurs,108,DAL,Dallas,Mavericks,American Airlines Center
+110,NOP,New Orleans,Pelicans,99,DEN,Denver,Nuggets,Pepsi Center
+100,MIN,Minnesota,Timberwolves,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+96,OKL,Oklahoma City,Thunder,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+103,SAC,Sacramento,Kings,105,LAL,Los Angeles,Lakers,Staples Center
+89,CHI,Chicago,Bulls,84,BRO,Brooklyn,Nets,Barclays Center
+82,BOS,Boston,Celtics,93,CHA,Charlotte,Hornets,Time Warner Cable Arena
+87,IND,Indiana,Pacers,95,ORL,Orlando,Magic,Amway Center
+90,MIL,Milwaukee,Bucks,85,PHI,Philadelphia,76ers,Wells Fargo Center
+92,MIA,Miami,Heat,94,WAS,Washington,Wizards,Verizon Center
+102,LAC,Los Angeles,Clippers,106,SAS,San Antonio,Spurs,AT&T Center
+98,UTA,Utah,Jazz,97,POR,Portland,Trail Blazers,Moda Center
+110,NOP,New Orleans,Pelicans,101,GSW,Golden State,Warriors,Oracle Arena
+81,TOR,Toronto,Raptors,83,NYK,New York,Knicks,Madison Square Garden
+86,CLE,Cleveland,Cavaliers,91,ATL,Atlanta,Hawks,Philips Arena
+96,OKL,Oklahoma City,Thunder,99,DEN,Denver,Nuggets,Pepsi Center
+108,DAL,Dallas,Mavericks,104,PHX,Phoenix,Suns,Talking Stick Resort Arena
+109,HOU,Houston,Rockets,103,SAC,Sacramento,Kings,Sleep Train Arena
+88,DET,Detroit,Pistons,107,MEM,Memphis,Grizzlies,FedEx Forum
+100,MIN,Minnesota,Timberwolves,105,LAL,Los Angeles,Lakers,Staples Center
+87,IND,Indiana,Pacers,85,PHI,Philadelphia,76ers,Wells Fargo Center
+84,BRO,Brooklyn,Nets,82,BOS,Boston,Celtics,TD Garden
+86,CLE,Cleveland,Cavaliers,92,MIA,Miami,Heat,American Airlines Arena
+95,ORL,Orlando,Magic,89,CHI,Chicago,Bulls,United Center
+93,CHA,Charlotte,Hornets,90,MIL,Milwaukee,Bucks,BMO Harris Bradley Center
+94,WAS,Washington,Wizards,88,DET,Detroit,Pistons,Palace of Auburn Hills
+106,SAS,San Antonio,Spurs,97,POR,Portland,Trail Blazers,Moda Center
+109,HOU,Houston,Rockets,102,LAC,Los Angeles,Clippers,Staples Center
+98,UTA,Utah,Jazz,101,GSW,Golden State,Warriors,Oracle Arena
+93,CHA,Charlotte,Hornets,91,ATL,Atlanta,Hawks,Philips Arena
+96,OKL,Oklahoma City,Thunder,100,MIN,Minnesota,Timberwolves,Target Center
+99,DEN,Denver,Nuggets,108,DAL,Dallas,Mavericks,American Airlines Center
+110,NOP,New Orleans,Pelicans,105,LAL,Los Angeles,Lakers,Staples Center
+104,PHX,Phoenix,Suns,103,SAC,Sacramento,Kings,Sleep Train Arena
+88,DET,Detroit,Pistons,95,ORL,Orlando,Magic,Amway Center
+81,TOR,Toronto,Raptors,86,CLE,Cleveland,Cavaliers,Quicken Loans Arena
+90,MIL,Milwaukee,Bucks,82,BOS,Boston,Celtics,TD Garden
+85,PHI,Philadelphia,76ers,83,NYK,New York,Knicks,Madison Square Garden
+94,WAS,Washington,Wizards,92,MIA,Miami,Heat,American Airlines Arena
+84,BRO,Brooklyn,Nets,89,CHI,Chicago,Bulls,United Center
+108,DAL,Dallas,Mavericks,107,MEM,Memphis,Grizzlies,FedEx Forum
+100,MIN,Minnesota,Timberwolves,109,HOU,Houston,Rockets,Toyota Center
+99,DEN,Denver,Nuggets,96,OKL,Oklahoma City,Thunder,Chesapeake Energy Arena
+91,ATL,Atlanta,Hawks,87,IND,Indiana,Pacers,Bankers Life Fieldhouse
+106,SAS,San Antonio,Spurs,98,UTA,Utah,Jazz,Vivint Smart Home Arena
+103,SAC,Sacramento,Kings,102,LAC,Los Angeles,Clippers,Staples Center
+105,LAL,Los Angeles,Lakers,101,GSW,Golden State,Warriors,Oracle Arena
+110,NOP,New Orleans,Pelicans,97,POR,Portland,Trail Blazers,Moda Center
